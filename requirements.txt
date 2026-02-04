@@ -1,0 +1,45 @@
+# Core ML/DL
+# tensorflow>=2.15.0        # Already installed (2.15.0)
+# tensorflow-metal>=1.1.0   # Already installed (1.1.0)
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Speech Recognition
+openai-whisper>=20230314
+soundfile>=0.12.1
+librosa>=0.10.0
+
+# Text-to-Speech
+gTTS>=2.3.0
+pydub>=0.25.1
+TTS>=0.22.0  # Coqui TTS
+
+# Audio I/O (PyAudio alternatives)
+# pyaudio>=0.2.13  # Requires portaudio - SKIP for now
+sounddevice>=0.4.6  #  Alternative to PyAudio (no portaudio needed!)
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+colorama>=0.4.6
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# API (if building web interface later)
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Development
+jupyter>=1.0.0
+ipykernel>=6.25.0

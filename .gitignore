@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# TensorFlow
+*.h5
+*.weights.h5
+*.pb
+saved_model/
+checkpoint/
+
+# Audio files
+*.wav
+*.mp3
+*.m4a
+*.flac
+
+# Data files
+*.csv
+*.json
+*.pkl
+*.npy
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+._*
+
+# Environment
+.env
+.env.local
+
+# Results
+results/local/*
+!results/local/.gitkeep
+results/demos/*
+!results/demos/.gitkeep
