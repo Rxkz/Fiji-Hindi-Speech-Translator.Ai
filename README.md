@@ -39,4 +39,4 @@ python main.py
 ## Author
 **Rxkz** - [GitHub](https://github.com/rxkz)
 
-Part of [DL Practice Week](https://github.com/rxkz/DL-Practice-Projects)
+Part of [DL Practice Week](https://github.com/Rxkz/Deep-Learning-Practice-Projects)
