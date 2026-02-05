@@ -134,9 +134,11 @@ def main():
 
         if choice == "1":
             translator.run_interactive()
+            time.sleep(2)
             break
         elif choice == "2":
             translator.translate_once(duration=5)
+            time.sleep(2)
             break
         else:
             print("Invalid choice. Enter 1 or 2.")

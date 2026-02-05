@@ -3,126 +3,72 @@ Text-to-Speech Module using gTTS
 Converts Fiji Hindi text to speech audio
 """
 
-from gtts import gTTS
+import edge_tts
+import asyncio
+import pygame
 import os
 import tempfile
-import platform
-import time
-from whisper import audio
+
+import edge_tts
+import asyncio
+import pygame
+import os
+import tempfile
 
 
 class TextToSpeech:
-    """gTTS-based text-to-speech for Fiji Hindi"""
+    def __init__(self, *args, **kwargs):
+        self.voice = "hi-IN-MadhurNeural"
+        self.rate = "-15%"
 
-    def __init__(self, lang="hi", slow=False):
-        """
-        Initialize TTS
+        # Ensure mixer is clean
+        if pygame.mixer.get_init():
+            pygame.mixer.quit()
+        pygame.mixer.init()
+        print(f"Text-to-speech ready (Edge-Neural: Madhur)")
 
-        Args:
-            lang: Language code (hi = Hindi, closest to Fiji Hindi)
-        """
-
-        print(f"Text-to-speech ready (language: {lang} slow: {slow})")
-        self.lang = lang
-        self.slow = slow
-        print()
-
-    # convert text to speech
-    def speak(self, text, save_path=None, play=True):
-        """
-        Convert text to speech and play
-
-        Args:
-            text: Fiji Hindi text to speak
-            save_path: Optional path to save audio file
-            play: Whether to play audio automatically
-
-        Returns:
-            audio_file: Path to generated audio file
-        """
+    def speak(self, text, **kwargs):
         if not text:
-            print("Error: No text to speak")
             return None
 
-        print(f"Speaking text: {text}")
-        # add padding to text
-        padded_text = f", ... {text} "
+        # Create a temp file path
+        temp_dir = tempfile.gettempdir()
+        tmp_path = os.path.join(temp_dir, f"tts_output.mp3")
 
-        # generate audio
-        tts = gTTS(text=padded_text, lang=self.lang, slow=self.slow)
+        # Inner function to handle the async generation
+        async def generate():
+            communicate = edge_tts.Communicate(text, self.voice, rate=self.rate)
+            await communicate.save(tmp_path)
 
-        # save audio to file
-        if save_path:
-            # Create temporary file in system temp directory
-            temp_dir = tempfile.gettempdir()
-            timestamp = int(time.time() * 1000)
-            audio_file = os.path.join(temp_dir, f"tts_{timestamp}.mp3")
-        else:
-            audio_file = save_path
+        # 1. Generate the file
+        print(f"Generating audio for: {text}...")
+        asyncio.run(generate())
 
-        # save audio
-        tts.save(audio_file)
-        print(f"audio saved to {audio_file}")
-
-        # play audio
-        if play:
-            self._play_audio(audio_file)
-        return audio_file
-
-    # play audio
-    def _play_audio(self, audio_file):
-        """
-        Play audio file using system player
-
-        Args:
-            audio_file: Path to audio file
-        """
-        print(f"Playing audio from {audio_file}...")
-        system = platform.system()
-
-        try:
-            if system == "Darwin":  # macOS
-                time.sleep(0.1)
-                os.system(f"afplay {audio_file}")
-            elif system == "Windows":  # Windows
-                os.system(f"start {audio_file}")
-            elif system == "Linux":  # Linux
-                os.system(f"aplay {audio_file}")
-            else:
-                print(f"Unsupported system: {system}")
-                print("Please manually play the audio file")
-        except Exception as e:
-            print(f"Error playing audio: {e}")
-            print("Please manually play the audio file")
-        return True
-
-    # speck and clean up
-    def speak_and_cleanup(self, text):
-        """
-        Speak text and clean up temporary file
-
-        Args:
-            text: Text to speak
-        """
-        audio_file = self.speak(text)
-
-        # wait for audio to finish playing
-        time.sleep(0.5)
-
-        # clean up temporary file
-        if audio_file and os.path.exists(audio_file):
+        # 2. Play the file using a rock-solid blocking method
+        if os.path.exists(tmp_path):
             try:
-                os.remove(audio_file)
-                print(f"Temporary file {audio_file} removed")
+                pygame.mixer.music.load(tmp_path)
+                pygame.mixer.music.play()
+
+                # Force the program to wait until the sound is 100% finished
+                while pygame.mixer.music.get_busy():
+                    pygame.time.Clock().tick(10)
+
+                pygame.mixer.music.unload()
+                os.remove(tmp_path)
             except Exception as e:
-                print(f"Error removing temporary file: {e}")
+                print(f"Playback error: {e}")
+
         return True
+
+    def speak_and_cleanup(self, text):
+        return self.speak(text)
 
 
 # main function to test the text to speech module
 if __name__ == "__main__":
     # Initialize
-    tts = TextToSpeech(lang="hi", slow=False)
+    tts = TextToSpeech()
 
     print("=" * 70)
     print("TEXT-TO-SPEECH TEST")

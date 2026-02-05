@@ -12,6 +12,9 @@ librosa>=0.10.0
 # Text-to-Speech
 gTTS>=2.3.0
 pydub>=0.25.1
+# Text-to-Speech (Edge-TTS)
+edge-tts>=6.1.0
+pygame>=2.5.0
 TTS>=0.22.0  # Coqui TTS
 
 # Audio I/O (PyAudio alternatives)
