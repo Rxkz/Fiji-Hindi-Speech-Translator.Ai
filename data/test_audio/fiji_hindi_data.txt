@@ -1,0 +1,2480 @@
+# Format: English | Fiji Hindi
+# =========================
+# Original Pronouns & Basics
+# =========================
+I | ham
+Iam | hum
+Dick | boci
+You | tum
+We | ham log
+They | uu logan
+This | ii
+That | uu
+Here | hian
+There | huan
+Yes | haan
+No | nahi
+Not | nai
+He | uu
+She | uu
+It | ii
+Me | hamke
+Him | uuke
+Her | uuke
+Us | ham logan ke
+Them | uu logan ke
+My | hamaar
+Your | tumhaar
+Our | ham logan ke
+Their | uu logan ke
+Mine | hamaar
+Yours | tumhaar
+Ours | ham logan ke
+Theirs | uu logan ke
+Who | kon
+What | ka / konchi
+Where | kahaan
+When | kab
+Why | kaahe
+How | kaise
+
+# =========================
+# Original Greetings & Polite Speech
+# =========================
+Hello | namaste
+Thank you | dhanyavaad
+Please | kripya
+Sorry | maaf karo
+Good morning | suprabhat
+Good evening | subh sandhya
+Goodbye | alvida
+Welcome | swaagat
+How are you? | tum kaisan ho? / kaise
+I am fine | ham theek hae / thik hae
+Okay, good | acha
+Maybe | saait
+Excuse me | ksama karem / maaf karna
+Thank you very much | bahut dhanyavaad
+See you again | fir milega
+# =========================
+# Core Vocabulary
+# =========================
+Food | khaana
+Water | paani
+Rice | chaawal
+Bread | roti
+Milk | doodh
+Meat | maans
+House | ghar
+Work | kaam
+Market | bazaar
+School | vidyalay
+Road | rastaa
+Family | parivaar
+Father | baap
+Mother | maai
+Brother | bhai
+Sister | bahin
+Man | admi
+Woman | aurat
+Child | bachchaa
+Son | betaa
+Daughter | betii
+Friend | dost
+Day | din
+Night | raat
+Big | barraa
+Small | chhota
+Good | acha
+Bad | caa
+Hot | garam
+Cold | thanda
+New | nayaa
+Old | buddha
+One | ek
+Two | dui
+Three | tiin
+Four | chaar
+Five | paanch
+Six | chhe
+Seven | saat
+Eight | aath
+Nine | nau
+Ten | das
+Now | ab
+Today | aaj
+Yesterday | kal
+Tomorrow | bihaan / kal se baad
+Fire | aagii
+Sky | asmaan
+Cloud | baadal
+Rain | barse
+Sun | suraj
+Moon | chaand / chandarma
+Star | taara
+Tree | bo / daruukaa
+Flower | fuul
+Fruit | fal
+Vegetable | belee / choraiya
+Egg | andaa
+Fish | bakewa / daniva / gitawa
+Cow | gaai / gaiyaa
+Goat | bakrraa
+Chicken | murga
+Dog | kutta
+Cat | bili
+Bird | chirriya / bulbul
+Money | paisa
+Book | kitab
+Pen | kalam
+Paper | kagaz
+Car | gaarii
+Bus | bas
+Shop | dukaan
+Hospital | aspataal
+Doctor | doktaa
+Medicine | dawai
+Clothes | kapra
+Shoe | juta
+Hand | haath
+Foot | gorr / pair
+Eye | aankhi
+Ear | kaan
+Nose | naak
+Mouth | muh
+Hair | baar / chotii
+Heart | dil
+Head | sir
+Body | badan
+Color | rang
+Red | laal
+Blue | bulu
+Green | hara
+Yellow | peela
+White | safed
+Black | kaala
+Time | samay
+Hour | ghanta
+Minute | minit
+Second | sekand
+Morning | subah
+Afternoon | dopahar
+Evening | shaam
+Love | pyaar
+Happy | khush
+Sad | dukhi
+Angry | gussa
+Tired | thaka
+Hungry | bhuuk
+Thirsty | pyaas
+Sleep | sota
+Walk | chalta
+Run | daurro
+Sit | baitho
+Stand | khara
+Come | aao
+Go | chalo / jaao
+See | dekho
+Hear | suno
+Speak | bolo
+Eat | khaao
+Drink | piyo
+Give | deo
+Take | lo
+Buy | kharido
+Sell | becho
+Open | kholo
+Close | band karo
+Yes | haan
+No | nahi
+And | aur
+But | lekin
+Or | ya
+If | agar jo
+Because | kyunki
+# =========================
+# Numbers
+# =========================
+One | ek
+Two | dui
+Three | tiin
+Four | chaar
+Five | paanch
+Six | chhe
+Seven | saat
+Eight | aath
+Nine | nau
+Ten | das
+Eleven | gyaarah
+Twelve | baarah
+Thirteen | terah
+Fourteen | chaudah
+Fifteen | pandrah
+Sixteen | solah
+Seventeen | satrah
+Eighteen | athaarah
+Nineteen | unis
+Twenty | biis
+Thirty | tiis
+Forty | chaalis
+Fifty | pachas
+Sixty | saath
+Seventy | sattar
+Eighty | assi
+Ninety | nabbe
+Hundred | sau
+Thousand | hazaar
+# =========================
+# Simple Sentences
+# =========================
+I eat rice | ham chaawal khaata
+I drink water | ham paani piye
+I eat food | ham khaana khaata
+I eat bread | ham roti khaata
+I drink milk | ham doodh piye
+I go home | ham ghar jaata
+I work | ham kaam karta
+I sleep | ham sota
+I walk | ham chalta
+I come here | ham hian aata
+I go there | ham huan jaata
+I see this | ham ii dekhta
+I eat meat | ham maans khaata
+I go to market | ham bazaar jaata
+I go to school | ham vidyalay jaata
+I work hard | ham kaam karta
+I sleep now | ham ab sota
+I walk on road | ham rastaa chalta
+I like bread | hamke roti pasand hai
+I like milk | hamke doodh pasand hai
+I don't like meat | hamke maans nai pasand hai
+I want to go to the airport | Ham airport jaae mangtaa hae
+I have come from Australia | Ham Australia se aaya hae
+I don't understand | Ham nai samajhtaa hae / ham nai samjha
+# =========================
+# You Sentences
+# =========================
+You eat rice | tum chaawal khaata
+You drink water | tum paani piye
+You go home | tum ghar jaata
+You work | tum kaam karta
+You walk | tum chalta
+You come here | tum hian aata
+You go there | tum huan jaata
+You eat food | tum khaana khaata
+You drink milk | tum doodh piye
+You go to market | tum bazaar jaata
+You sleep | tum sota
+You like water | tumke paani pasand hai
+You speak English | Tum/Aap English me baat kataa hae?
+# =========================
+# We Sentences
+# =========================
+We eat rice | ham log chaawal khaata
+We drink water | ham log paani piye
+We go home | ham log ghar jaata
+We work | ham log kaam karta
+We eat and drink | ham log khaata aur piye
+We work today | ham log aaj kaam karta
+We will drink water | ham log paani piyega
+# =========================
+# They Sentences
+# =========================
+They eat rice | uu logan chaawal khaata
+They drink water | uu logan paani piye
+They go home | uu logan ghar jaata
+They eat food | uu logan khaana khaata
+They drink milk | uu logan doodh piye
+They go to school | uu logan vidyalay jaata
+They work and go home | uu logan kaam karta aur ghar jaata
+They will go home | uu logan ghar jaaega
+# =========================
+# Family Sentences
+# =========================
+My father works | hamaar baap kaam karta
+My mother cooks food | hamaar maai khaana banaata
+My brother goes home | hamaar bhai ghar jaata
+My sister drinks milk | hamaar bahin doodh piye
+My family is here | hamaar parivaar hian hai
+My father eats rice | hamaar baap chaawal khaata
+My mother cooks | hamaar maai banaaya
+My brother drinks water | hamaar bhai paani piye
+My sister goes to market | hamaar bahin bazaar jaata
+My family eats together | hamaar parivaar saath khaata
+My name is John | Hamaar naam John hae
+Who is your father? | tumhaar baap kon hai?
+What is your name? | tumhaar naam konchi hai? / Tumare (or "Aap" to be polite) ke naam konchi hae?
+Are you married? | Tummar/Aapke saadi hoe gais?
+How many children do you have? | Aap ke ketna larrkan hae?
+# =========================
+# Questions
+# =========================
+Who is this | ii kon hai
+What is this | ii konchi hai
+Where are you | tum kahaan ho
+Where is my house | hamaar ghar kahaan hai
+What time is it | kitna baje hain
+What do you eat? | tum ka khaata?
+Where do you go? | tum kahaan jaata?
+Where is the market? | bazaar kahaan hai?
+What is your name? | tumhaar naam konchi hai?
+How are you? | tum kaisan hai?
+Do you like rice? | tumke chaawal pasand hai?
+Do you speak Fiji Hindi? | tum Fiji Hindi bolta?
+Can you help me? | tum hamre madad karba sakta? / tum hamre madad karba
+Where have you come from? | Tum/Aap kahaan se aaya hae?
+Does anyone here speak English | Hian pe koi English me baat kare hae?
+Where is the shop? | Dukaan kahaan hae
+Is it far or near? | Duur hae ki nagiich?
+Can I go by foot? | Ham paidar jaae saktaa hae?
+Can I sit here? | Ham sakko ya baeto
+What is this? | ii konchi hai?
+Where are you from? | tum kahaan se ho?
+Do you speak English | Tum/Aap English me baat kataa hae?
+# =========================
+# Likes / Dislikes
+# =========================
+I like rice | hamke chaawal pasand hai
+I like food | hamke khaana pasand hai
+I don’t like meat | hamke maans nai pasand hai
+I don’t like this | hamke ii nai pasand hai
+# =========================
+# Help & Common Phrases
+# =========================
+Please help me | kripya hamme madad karo
+I need help | hamme madad chaahi
+I don’t know | ham nai jaane
+I don’t understand | ham nai samjha
+Can you help me | tum hamre madad karba
+Help me please | kripya hamme madad karo
+Please give water | kripya paani do
+I am from Fiji | ham Fiji se hae
+# =========================
+# Time Expressions
+# =========================
+Now | ab
+Today | aaj
+Yesterday | kal
+Tomorrow | kal se baad
+I go now | ham ab jaata
+I work today | ham aaj kaam karta
+I worked yesterday | ham kal kaam kiya
+I will go tomorrow | ham kal se baad jaaega
+Later | baad me
+Right now | abhi
+# =========================
+# Places & Directions
+# =========================
+Left | baen
+Right | daen
+Straight | seedha
+Near | nikat
+Far | durr
+I go to market | ham bazaar jaata
+I go to school | ham vidyalay jaata
+The market is near | bazaar nikat hai
+The house is far | ghar durr hai
+Go straight ahead | Sidhaa aage chalo
+Outside | bahaare
+Inside | bhittar
+Ahead | aage
+Side | bagal
+Between | biich
+Village | gaon
+# =========================
+# Greetings + Family
+# =========================
+Hello mother | namaste maai
+Hello father | namaste baap
+Good morning father | suprabhat baap
+Good evening mother | subh sandhya maai
+# =========================
+# Multi-Clause Sentences (VERY IMPORTANT)
+# =========================
+I eat rice and drink water | ham chaawal khaata aur paani piye
+I go home and sleep | ham ghar jaata aur sota
+I work and eat food | ham kaam karta aur khaana khaata
+We eat food and drink water | ham log khaana khaata aur paani piye
+They go home and work | uu logan ghar jaata aur kaam karta
+My mother cooks and I eat | hamaar maai banaata aur ham khaata
+We eat and drink | ham log khaata aur piye
+They work and go home | uu logan kaam karta aur ghar jaata
+# ───────────────────────────────────────────────
+# Expanded Verbs & Objects (present simple/continuous style)
+# ───────────────────────────────────────────────
+I eat food | ham khaana khaata
+I eat bread | ham roti khaata
+I eat meat | ham maans khaata
+I drink milk | ham doodh piye
+I drink water | ham paani piye
+I go home | ham ghar jaata
+I go to market | ham bazaar jaata
+I go to school | ham vidyalay jaata
+I work hard | ham kaam karta
+I sleep now | ham ab sota
+I walk on road | ham rastaa chalta
+I come here | ham hian aata
+I see this | ham ii dekhta
+I like rice | hamke chaawal pasand hai
+I like bread | hamke roti pasand hai
+I like milk | hamke doodh pasand hai
+I don't like meat | hamke maans nai pasand hai
+# You forms
+You eat rice | tum chaawal khaata
+You eat food | tum khaana khaata
+You drink milk | tum doodh piye
+You go home | tum ghar jaata
+You go to market | tum bazaar jaata
+You work | tum kaam karta
+You sleep | tum sota
+You like water | tumke paani pasand hai
+# We / They forms
+We eat rice | ham log chaawal khaata
+We drink water | ham log paani piye
+We go home | ham log ghar jaata
+We work today | ham log aaj kaam karta
+They eat food | uu logan khaana khaata
+They drink milk | uu logan doodh piye
+They go to school | uu logan vidyalay jaata
+# Family variations
+My father eats rice | hamaar baap chaawal khaata
+My mother cooks food | hamaar maai khaana banaata
+My brother drinks water | hamaar bhai paani piye
+My sister goes to market | hamaar bahin bazaar jaata
+My family eats together | hamaar parivaar saath khaata
+# Past tense (using your pattern + real Fiji Hindi -aa / -is / -iya)
+I ate rice yesterday | ham kal chaawal khaaya
+I drank milk yesterday | ham kal doodh piya
+I worked yesterday | ham kal kaam kiya
+I went home yesterday | ham kal ghar gaya
+My father worked | hamaar baap kaam kiya
+My mother cooked | hamaar maai banaaya
+# Future / will (jaaega, karega style)
+I will eat rice tomorrow | ham kal se baad chaawal khaaega
+I will go to market | ham bazaar jaaega
+I will work tomorrow | ham kal se baad kaam karega
+We will drink water | ham log paani piyega
+They will go home | uu logan ghar jaaega
+# Questions (very important for variety!)
+What do you eat? | tum ka khaata?
+Where do you go? | tum kahaan jaata?
+Where is the market? | bazaar kahaan hai?
+Who is your father? | tumhaar baap kon hai?
+What is your name? | tumhaar naam konchi hai?
+How are you? | tum kaisan hai?
+Do you like rice? | tumke chaawal pasand hai?
+Do you speak Fiji Hindi? | tum Fiji Hindi bolta?
+Can you help me? | tum hamre madad karba sakta?
+# And + aur sentences (build composition)
+I eat rice and drink water | ham chaawal khaata aur paani piye
+I go home and sleep | ham ghar jaata aur sota
+I work and eat food | ham kaam karta aur khaana khaata
+We eat and drink | ham log khaata aur piye
+They work and go home | uu logan kaam karta aur ghar jaata
+My mother cooks and I eat | hamaar maai banaata aur ham khaata
+# More realistic travel/common phrases (from Fiji Hindi sources)
+How are you? | tum kaisan ho?
+I am fine | ham theek hae
+What is this? | ii konchi hai?
+Where are you from? | tum kahaan se ho?
+I am from Fiji | ham Fiji se hae
+Please give water | kripya paani do
+I don't understand | ham nai samjha
+Help me please | kripya hamme madad karo
+Thank you very much | bahut dhanyavaad
+See you again | fir milega
+# ───────────────────────────────────────────────
+# Additional Vocabulary (Food & Drink)
+# ───────────────────────────────────────────────
+Potato | aaluu
+Mango | aam
+Guava | amrud
+Pomegranate | anaar
+Grape | angur
+Apple | aapul
+Almond | badaam
+Eggplant | baigan
+Cabbage | band gobhi / gobhii
+Bean | biin / borra
+Cauliflower | fuul gobhi
+Chick peas | chana
+Okra | bhindi
+Lentils | daal
+Yogurt | dahii
+Sugar | chiinii
+Tea | chaa
+Coffee | kafi
+Butter | makhan
+Cheese | paneer
+Honey | madhu
+Salt | namak
+Pepper | gol mirich
+Ginger | adraki
+Garlic | lasun
+Onion | pyaaj
+Tomato | tamatar
+Carrot | gaajar
+Banana | kela
+Orange | santra
+Lemon | nimbu
+Pineapple | ananas
+Coconut | nariyal
+# ───────────────────────────────────────────────
+# Additional Vocabulary (Family & Relations)
+# ───────────────────────────────────────────────
+Grandfather | aaja
+Grandmother | aaji / awa
+Uncle | chaacha / fua / fuffa
+Aunt | atta / auntie / barrki
+Brother-in-law | bahnoi / barrku / dewar
+Sister-in-law | bhabhi / bhauji
+Son-in-law | damaad
+Bridegroom | dulhaa
+Servant | gulaam
+Enemy | dusman
+# ───────────────────────────────────────────────
+# Additional Vocabulary (Body Parts)
+# ───────────────────────────────────────────────
+Thumb | anguttha
+Tooth | daant
+Beard | daarrii
+Knee | ganthii
+Neck | gatai
+Skin | chamrra
+Brain | dimaag
+Scar | daag
+# ───────────────────────────────────────────────
+# Additional Vocabulary (Animals & Nature)
+# ───────────────────────────────────────────────
+Monkey | bandar
+Duck | battak
+Sheep | bherraa
+Crab | bakerraa
+Lizard | bustuiyaa
+Rat | chuuha
+Snake gourd | chichinda
+Horse | ghora
+Elephant | haathi
+Lion | sher
+Tiger | bagh
+Butterfly | titli
+Bee | madhumakhi
+Ant | cheenti
+Mountain | pahar
+River | nadi
+Sea | samundar
+Forest | jungle
+# ───────────────────────────────────────────────
+# Additional Vocabulary (Household & Daily Life)
+# ───────────────────────────────────────────────
+Key | chaabii
+Knife | chakko / chhuri
+Spoon | chimmach
+Glass | gilass
+Bottle | botal
+Bucket | baltii
+Mat | chataai
+Sheet | chaddar
+Lamp | battii / diya
+Roof | chhat
+Wall | diwaal
+Door | duaar / duwaar
+Window | khirki
+Bed | bistar
+Chair | kursi
+Table | mez
+Fan | pankha
+Light | baaro
+Darkness | andhera
+Dust | garda
+Gift | baksis / bakalolo
+Song | gaanaa / geet / gazal / bhajan
+Dance | bhangrra
+Movie | filam
+Festival | Diwali / Bakra Iid / fagua
+Temple | gurdwara
+God | Allah / bhagwaan
+Book | Gita
+Business | dhandhaa
+Price | daam
+Problem | bawaal / dikkat
+Help | aasra
+Trust | biswaas
+Anger | gussa
+Fear | dar
+Sorrow | dukh
+Happiness | khushi
+# ───────────────────────────────────────────────
+# Additional Sentences & Phrases
+# ───────────────────────────────────────────────
+It is raining | barse
+Rest | araam karo
+Wait | agoro
+Like this | aise
+Alone | akele
+Separate | alag
+In addition | alaawa
+Blessing | aasirwaad
+Slowly | aaste / dhiire
+Soul | aatma
+Bake | baabi karo
+Cloud | baadal
+Win | baaji
+Box | baakas
+Sand | baalu
+Hair | baar
+About | baare me
+Light | baaro
+Flood | baarr
+Thing | baat / chij
+Talk | baat karo
+Baby | babba
+Save | bachao
+Revenge | badlaa
+Change | badlo
+Side | bagal
+Argument | bahas
+Excuse | bahaanah
+Very | bahut
+Sit | baitho
+Play | bajao
+Make | banao
+Close | band karo
+Equal | baroobar
+Bread | bareed
+Increase | barrhaao
+Wonderful | barrhiyaa
+Elder | barrka
+Raining | barse
+Utensils | bartan
+Enough | bas
+Tell | batao
+Gather | batoro
+Sell | becho
+Pregnant | bukete
+Unconscious | behos / bihos
+Shameless | besaram
+Useless | bekaar
+Break | belo
+Daughter | betii
+Also | bhii
+Pity | bichaaraa
+Spread | bichhao
+Farewell | bidaa
+Thursday | bif
+Spoil | bigaarro
+Throw | bigo
+Bean | biin
+Twenty | biis
+Never mind | bitalia
+Seed | biyaa
+Plant | bo
+Weight | bojha
+Boil | boil karo
+Call | bolao
+Say | bolo
+Boss | bos
+Old | buddha
+Lazy | budesaa
+Wednesday | budh
+Fever | bukhaar
+Bull | bul
+Greeting | bula
+Invitation | bulaawaa
+Brush | burus
+Beat | buturaki
+Leaves | bhaaji
+Heavy | bhaarii
+Fare | bhaarraa
+Rice | bhaat / chaur / dhaan
+Happened | bhais
+Brother | bhaiyaa
+Savoury | bhajia
+Good | bhalaai
+Fill | bhare
+Send | bhejo
+Wet | bhiijo
+Snack | bhuja
+Fry | bhujo
+Forget | bhulo
+Hunger | bhuuk
+Devil | bhuut
+Tea | chaa
+Uncle | chaacha
+Mud | chaahataa
+Should | chaahii
+Walk | chaal
+Turn | chaalo
+Moon | chaand
+Four | chaar
+Remedy | chaaraa
+Chew | chabaao
+Forty | chaalis
+Unworthy | chamar
+Glitter | chamke
+Skin | chamrra
+Sandalwood | chandan
+Clever | chalaak
+Go | chalo
+Sandal | chappal
+Fat | charbii
+Thief | chor
+Spectacles | chasmaa
+Mat | chataai
+Chutney | chatni
+Fourteen | chaudah
+Check | chek karo
+Sugar | chiinii
+Yams | chikau
+Recognise | chinho
+Bird | chirriya
+Letter | chitthi
+Dish | chokha
+Blouse | choli
+Steal | chori karo
+Injury | chot
+Kiss | chumma
+Quiet | chup raho
+Blockhead | chutiya
+Touch | chhuuo
+Scar | daag
+Tree | dakua
+Lentils | daal
+Branch | daal
+Err | daala
+Cinnamon | daal chini / dalchini
+Taro | daalo
+Breath | dam
+Son-in-law | damaad
+Price | daam
+Uncle | daada
+Aunt | daadi
+Tooth | daant
+Beard | daarrii
+Alcohol | daaruu
+Invitation | daawat
+Times | dafe
+Yogurt | dahii
+Fish | daniva
+Fear | dar
+Dozen | darjan
+Ten | das
+Condition | dasaa
+Run | daurro
+Medicine | dawai
+Festival | Diwali
+Wall | diwaal
+Step | deg
+See | dekho
+Give | deo
+Late | derii
+Brother-in-law | dewar
+Depot | dipu
+Day | din
+Difficulty | dikkat
+Heart | dil
+Brain | dimaag
+Scraping | dimbidibi
+Lamp | diya
+Doctor | doktaa
+Tree | dongo
+Distant | door
+Friend | dost
+Thin | dubraa
+Shop | dukaan
+Sorrow | dukh
+Bridegroom | dulhaa
+Entrance | duaar
+World | duniyaa
+Enemy | dusman
+Milk | duudh
+Both | duuno
+Far | duur
+Other | duusar
+Entrance | duwaar
+Two and a half | dhaaii
+Rice | dhaan
+Lid | dhakkan
+Thank you | dhanbaad
+Business | dhandhaa
+Manner | dhang
+Coriander | dhania
+Put | dhar do
+Plenty | dher
+Loose | dhilla
+Slow | dhiire
+Wash | dho
+Deceive | dhokaa
+Drum | dholak
+Garment | dhoti
+Carry | doh
+Smoke | dhuuan
+Concentration | dhyaan
+One | ek
+Completely | ekdam
+This much | etnaa
+Sunday | etwaar
+Fellow | faalaa
+Fork | faank
+Gate | faatak
+Benefit | faedaa
+Decision | faeslaa
+Festival | fagua
+Spread | failaao
+Fruit | fal
+Dress | faraak
+Difference | farkaa
+Care | fikar
+Movie | filam
+Again | fir
+Free | firii
+Free man | firiimaan
+Useless | fokatiyaa
+Land | friihold
+Aunt | fua
+Uncle | fuffa
+Tube | fukni
+Savoury | fulori
+Flower | fuul
+Cauliflower | fuul gobhi
+House | fuus ke ghar
+Bat | gaadur
+Cow | gaai
+Carrot | gaajar
+Song | gaanaa
+Marijuana | gaanja
+Knee | ganthii
+Swear | gaarii
+Disloyal | gaddaar
+Fool | gadhaa
+Yard | gaj
+Wrong | galat
+Smells bad | gandhaae
+Sugar cane | ganna
+Sing | gao
+Village | gaon
+Lie | gap
+Hot | garam
+Field | garaund
+Dust | garda
+Poor | garib
+Warm | garam
+Cart | garri
+Neck | gatai
+Gay | gauri
+Witness | gawaah
+Song | gazal
+Enclosure | geet
+Gang | geng
+Glass | gilass
+Count | gino
+Arrest | giraftaar
+Grass | girass
+Indenture | girmit
+Fall | giro
+Book | Gita
+Fish | gitawa
+Cabbage | gobhii
+Pepper | gol mirich
+Round | goolaa
+Fair | goraa
+Government | gorment
+Road | gorminti
+Foot | gorr
+Meat | gos
+Rose | gulaab
+Sweet | gulaab jaamun
+Servant | gulaam
+Sweet | gulgula
+Game | gullidanda
+Temple | gurdwara
+Anger | gussa
+Shoo | gwaan
+Eleven | gyaarah
+I eat mango | ham aam khaata
+You drink tea | tum chaa piye
+We like banana | ham log kela pasand hai
+They see bird | uu logan chirriya dekhta
+This is red | ii laal hai
+That is big | uu barraa hai
+Here is water | hian paani hai
+There is house | huan ghar hai
+Hello brother | namaste bhai
+Thank you mother | dhanyavaad maai
+Please come here | kripya hian aao
+Sorry sister | maaf karo bahin
+Good morning father | suprabhat baap
+I eat potato | ham aaluu khaata
+You like mango | tumke aam pasand hai
+We drink milk | ham log doodh piye
+They eat bread | uu logan roti khaata
+This is apple | ii aapul hai
+That is guava | uu amrud hai
+Here is egg | hian andaa hai
+There is fish | huan bakewa hai
+I go village | ham gaon jaata
+You see river | tum nadi dekho
+We walk outside | ham log bahaare chalta
+They sit inside | uu logan bhittar baitho
+My grandfather sleeps | hamaar aaja sota
+Your grandmother eats | tumhaar aaji khaata
+Our uncle works | ham logan ke chaacha kaam karta
+Their aunt cooks | uu logan ke atta banaata
+Who is this child? | ii bachchaa kon hai
+What is that fruit? | uu fal konchi hai
+Where is cow? | gaai kahaan hai
+When you go? | tum kab jaata?
+I like pineapple | hamke ananas pasand hai
+I don’t like okra | hamke bhindi nai pasand hai
+Please give water | kripya paani do
+I need tea now | hamme ab chaa chaahi
+Help me please | kripya hamre madad karo
+It is hot today | aaj garam hai
+It is cold now | ab thanda hai
+I ate mango yesterday | ham kal aam khaaya
+You drank coffee | tum kafi piya
+We worked hard | ham log kaam kiya
+They went home | uu logan ghar gaya
+I will eat banana | ham kela khaaega
+You will drink yogurt | tum dahii piyega
+My father sees horse | hamaar baap ghora dekhta
+Your mother likes chicken | tumhaar maai murga pasand hai
+Go straight brother | bhai seedha chalo
+Turn left sister | bahin baen mudlo
+The shop is near | dukaan nikat hai
+The school is far | vidyalay durr hai
+I walk slowly | ham aaste chalta
+You run now | tum ab daurro
+Please open door | kripya duaar kholo
+Close window father | baap khirki band karo
+I see moon | ham chaand dekhta
+You hear bird | tum chirriya suno
+We like flower | ham log fuul pasand hai
+They don’t like snake | uu logan saanp nai pasand hai
+This is monkey | ii bandar hai
+That is elephant | uu haathi hai
+Here is dog | hian kutta hai
+There is cat | huan bili hai
+Give me chair | hamke kursi deo
+I sit table | ham mez baitho
+I read book | ham kitab padhta
+You write letter | tum chitthi likhta
+Hello grandmother | namaste aaji
+Good evening uncle | subh sandhya chaacha
+I see butterfly | ham titli dekhta
+You like bee | tumke madhumakhi pasand hai
+This is knife | ii chhuri hai
+That is spoon | uu chimmach hai
+Here is bottle | hian botal hai
+I am happy today | ham aaj khush hae
+You are tired now | tum ab thaka ho
+We are hungry | ham log bhuuk hae
+They are thirsty | uu logan pyaas hae
+I love mother | ham maai pyaar karta
+You love father | tum baap pyaar karta
+Please wait here | kripya hian agoro
+Come inside now | ab bhittar aao
+My cow is big | hamaar gaai barraa hai
+Your goat is small | tumhaar bakrraa chhota hai
+It rains today | aaj barse
+Sun is hot | suraj garam hai
+Moon is beautiful | chaand sundar hai
+I walk road | ham rastaa chalta
+Please sit down | kripya baitho
+My name is Sita | hamaar naam Sita hae
+What is your name? | tumhaar naam konchi hai?
+I like this mango | hamke ii aam pasand hai
+You don’t like meat | tumke maans nai pasand hai
+Please give bread | kripya roti do
+I want milk | ham doodh mangtaa hae
+Do you like fish? | tumke bakewa pasand hai?
+I will go tomorrow | ham kal se baad jaaega
+Please speak slowly | kripya aaste bolo
+Goodbye sister | alvida bahin
+See you again | fir milega
+I eat and sleep | ham khaata aur sota
+You drink and go | tum piye aur jaao
+We work and eat | ham log kaam karta aur khaata
+They sleep and walk | uu logan sota aur chalta
+My brother likes mango | hamaar bhai aam pasand hai
+Your sister drinks tea | tumhaar bahin chaa piye
+Our grandfather eats rice | ham logan ke aaja chaawal khaata
+Their grandmother sees flower | uu logan ke aaji fuul dekhta
+I don’t like coffee | hamke kafi nai pasand hai
+You like yogurt | tumke dahii pasand hai
+We eat lentils today | ham log aaj daal khaata
+They drink water now | uu logan ab paani piye
+Please give salt | kripya namak do
+I need sugar | hamme chiinii chaahi
+This onion is big | ii pyaaj barraa hai
+That tomato is red | uu tamatar laal hai
+Here is carrot | hian gaajar hai
+There is potato | huan aaluu hai
+My uncle works hard | hamaar chaacha kaam karta
+Your aunt cooks good | tumhaar atta acha banaata
+Who sees elephant? | haathi kon dekhta?
+What do you drink? | tum ka piye?
+Where is school? | vidyalay kahaan hai?
+When I eat? | ham kab khaata?
+Why you sleep? | tum kaahe sota?
+How is river? | nadi kaise hai?
+I will go village | ham gaon jaaega
+You will come home | tum ghar aaeega
+We will work tomorrow | ham log kal se baad kaam karega
+They will eat bread | uu logan roti khaaega
+I ate fish yesterday | ham kal bakewa khaaya
+You drank milk | tum doodh piya
+We saw bird | ham log chirriya dekha
+They went market | uu logan bazaar gaya
+Please close door | kripya duaar band karo
+Open window now | ab khirki kholo
+Sit here father | baap hian baitho
+Stand there mother | maai huan khara
+I am from village | ham gaon se hae
+You are from city? | tum shahar se ho?
+We like this house | hamke ii ghar pasand hai
+They don’t like far road | uu logan durr rastaa nai pasand hai
+Hello friend | namaste dost
+Thank you doctor | dhanyavaad doktaa
+Sorry uncle | maaf karo chaacha
+Good evening aunt | subh sandhya atta
+I see star night | ham raat taara dekhta
+You hear song | tum gaanaa suno
+We dance festival | ham log mela naacho
+They sing bhajan | uu logan bhajan gao
+This is chair | ii kursi hai
+That is table | uu mez hai
+Here is bed | hian bistar hai
+There is fan | huan pankha hai
+Give me pen | hamke kalam deo
+I write book | ham kitab likhta
+You read Gita | tum Gita padhta
+We like temple | ham log mandir pasand hai
+They pray god | uu logan bhagwaan puja karta
+I am hungry now | ham ab bhuuk hae
+You are thirsty today | tum aaj pyaas ho
+We are happy here | ham log hian khush hae
+They are sad there | uu logan huan dukhi hae
+My heart is big | hamaar dil barraa hai
+Your eye is good | tumhaar aankhi acha hai
+I touch hand | ham haath chhuuto
+You wash foot | tum pair dho
+Please give medicine | kripya dawai do
+I go hospital | ham aspataal jaata
+You see doctor | tum doktaa dekho
+We need help | ham log madad chaahi
+They want water | uu logan paani mangtaa hae
+This is left side | ii baen taraf hai
+That is right way | uu daen rastaa hai
+Go straight ahead | seedha aage chalo
+Turn near shop | dukaan nikat mudlo
+The market is big | bazaar barraa hai
+The village is small | gaon chhota hai
+I walk slow | ham dhiire chalta
+You run quick | tum tez daurro
+Please wait brother | bhai kripya agoro
+Come fast sister | bahin tez aao
+I eat fruit | ham fal khaata
+You drink juice | tum ras piye
+We like apple | ham log aapul pasand hai
+They eat guava | uu logan amrud khaata
+My father buys cow | hamaar baap gaai kharido
+Your mother sells goat | tumhaar maai bakrraa becho
+Our family goes river | ham logan ke parivaar nadi jaata
+Their friend sees mountain | uu logan ke dost pahar dekhta
+Who is this woman? | ii aurat kon hai?
+What is your work? | tumhaar kaam konchi hai?
+Where you sleep? | tum kahaan sota?
+When father comes? | baap kab aata?
+I like hot tea | hamke garam chaa pasand hai
+I don’t like cold milk | hamke thanda doodh nai pasand hai
+Please give rice | kripya chaawal do
+I want bread now | ham ab roti chaahi
+Do you eat meat? | tum maans khaata?
+Can you help me? | tum hamre madad kar sakta?
+I will sleep later | ham baad me sota jaaega
+You will work today | tum aaj kaam karega
+We will drink tomorrow | ham log kal se baad piyega
+They will go far | uu logan durr jaaega
+I worked yesterday | ham kal kaam kiya
+You ate morning | tum subah khaaya
+We drank night | ham log raat piya
+They slept afternoon | uu logan dopahar sota
+Please speak loud | kripya zor se bolo
+I don’t understand quiet | ham chup nai samjha
+Goodbye grandfather | alvida aaja
+See you soon | jaldi milega
+I eat and drink | ham khaata aur piye
+You work and sleep | tum kaam karta aur sota
+We go and come | ham jaata aur aata
+They see and hear | uu logan dekhta aur suno
+My mother cooks and eats | hamaar maai banaata aur khaata
+Your brother works and rests | tumhaar bhai kaam karta aur araam karta
+Hello how are you? | namaste tum kaisan ho?
+I am fine and you? | ham theek hae aur tum?
+Thank you very much | bahut dhanyavaad
+Please help fast | kripya tez madad karo
+I don’t know this | ham ii nai jaane
+Do you speak English? | tum English bolta?
+Yes I speak little | haan ham thoda bolta
+No I don’t | nahi ham nai
+I come from Fiji | ham Fiji se aaya hae
+Where you live? | tum kahaan rahta?
+I live village | ham gaon rahta
+You live city? | tum shahar rahta?
+I am happy family | ham parivaar khush hae
+You are good friend | tum acha dost ho
+We eat together | ham log saath khaata
+They play outside | uu logan bahaare khelta
+Please sit down | kripya baitho jaao
+Stand up now | ab khara ho
+I like new clothes | hamke nayaa kapra pasand hai
+You like old shoe | tumke purana juta pasand hai
+We see new car | ham log nayaa gaarii dekhta
+They drive bus | uu logan bas chalata
+This road is long | ii rastaa lamba hai
+That path is short | uu rasta chhota hai
+Here is near school | hian vidyalay nikat hai
+There is far hospital | huan aspataal durr hai
+I walk every day | ham roj chalta
+You run sometimes | tum kabhi daurro
+We rest evening | ham log shaam araam karta
+They work morning | uu logan subah kaam karta
+My dog is black | hamaar kutta kaala hai
+Your cat is white | tumhaar bili safed hai
+Our bird sings | ham logan ke chirriya gaata
+Their cow gives milk | uu logan ke gaai doodh deta
+Please give food dog | kripya kutta ke khaana do
+I feed cat | ham bili khilaata
+You see fish river | tum nadi bakewa dekho
+We like chicken | ham log murga pasand hai
+They don’t like goat | uu logan bakrraa nai pasand hai
+This is green leaf | ii hara paat hai
+That is yellow flower | uu peela fuul hai
+Here is blue sky | hian bulu asmaan hai
+There is red sun | huan laal suraj hai
+I like rain | hamke barse pasand hai
+You like wind? | tum hawa pasand hai?
+We see cloud | ham log baadal dekhta
+They hear thunder | uu logan garaj suno
+Please close umbrella | kripya chhatri band karo
+Open door rain | barse me duaar kholo
+I am wet now | ham ab bhiijo hae
+You are dry | tum sookha ho
+We dry clothes | ham log kapra sookhaata
+They wash body | uu logan badan dho
+My head hurts | hamaar sir dukhta
+Your foot is good | tumhaar pair acha hai
+I see nose | ham naak dekhta
+You touch ear | tum kaan chhuuto
+Please give hair oil | kripya baar tel do
+I cut hair | ham baar kaato
+You brush tooth | tum daant burus karo
+We wash face | ham log muh dho
+They clean hand | uu logan haath saaf karta
+This is brain | ii dimaag hai
+That is heart | uu dil hai
+Here is knee | hian ganthii hai
+There is neck | huan gatai hai
+I feel fear | ham dar feel karta
+You feel anger | tum gussa feel karta
+We feel love | ham log pyaar feel karta
+They feel sorrow | uu logan dukh feel karta
+Please give blessing | kripya aasirwaad do
+I give gift | ham baksis deta
+You sing song | tum gaanaa gao
+We dance bhangra | ham log bhangrra naacho
+They watch movie | uu logan filam dekhta
+Hello mother good morning | namaste maai suprabhat
+Thank you father | dhanyavaad baap
+Sorry brother please | bhai maaf karo kripya
+Good evening sister | subh sandhya bahin
+I see you again | ham fir dekhta tumke
+You see me soon | tum jaldi dekho hamke
+We meet tomorrow | ham log kal milega
+They talk today | uu logan aaj baat karta
+Please call me | kripya hamke bolao
+I call you | ham tumke bolta
+You answer phone | tum phone uthaata
+We speak friend | ham log dost baat karta
+They listen song | uu logan geet suno
+This is problem | ii dikkat hai
+That is solution | uu upaay hai
+Here is help | hian madad hai
+There is danger | huan khatra hai
+I solve problem | ham dikkat solve karta
+You help friend | tum dost madad karta
+We trust god | ham log bhagwaan biswaas karta
+They fear enemy | uu logan dusman dar karta
+Please stay safe | kripya safe raho
+I go carefully | ham sambhal ke jaata
+You come slowly | tum dhiire aao
+We live happily | ham log khushi se rahta
+They play happily | uu logan khushi se khelta
+My life is good | hamaar zindagi acha hai
+Your day is fine | tumhaar din theek hai
+We hope best | ham log best umeed karta
+They wish good | uu logan good kaamna karta
+My sister likes banana | hamaar bahin kela pasand hai
+Your brother drinks coffee | tumhaar bhai kafi piye
+Our uncle eats potato | ham logan ke chaacha aaluu khaata
+Their aunt sees mango | uu logan ke atta aam dekhta
+I don’t like garlic | hamke lasun nai pasand hai
+You like ginger | tumke adraki pasand hai
+We eat cabbage today | ham log aaj band gobhi khaata
+They drink yogurt now | uu logan ab dahii piye
+Please give pepper | kripya gol mirich do
+I need salt now | hamme ab namak chaahi
+This carrot is long | ii gaajar lamba hai
+That onion is small | uu pyaaj chhota hai
+Here is tomato | hian tamatar hai
+There is eggplant | huan baigan hai
+My grandfather works field | hamaar aaja garaund kaam karta
+Your grandmother cooks lentils | tumhaar aaji daal banaata
+Who eats chicken? | murga kon khaata?
+What does mother cook? | maai ka banaata?
+Where is potato? | aaluu kahaan hai?
+When you drink tea? | tum kab chaa piye?
+Why brother angry? | bhai kaahe gussa?
+How is this fruit? | ii fal kaise hai?
+I will buy guava | ham amrud kharido jaaega
+You will sell apple | tum aapul becho jaaega
+We will see river | ham log nadi dekhega
+They will go forest | uu logan jungle jaaega
+I ate orange yesterday | ham kal santra khaaya
+You drank lemon water | tum nimbu paani piya
+We saw pineapple | ham log ananas dekha
+They went village | uu logan gaon gaya
+Please close window | kripya khirki band karo
+Open door sister | bahin duaar kholo
+Sit outside now | ab bahaare baitho
+Stand inside father | baap bhittar khara
+I am from Fiji | ham Fiji se hae
+You are from Australia? | tum Australia se ho?
+We like near market | hamke nikat bazaar pasand hai
+They don’t like far hospital | uu logan durr aspataal nai pasand hai
+Hello sister how are you | namaste bahin tum kaisan ho
+Thank you grandfather | dhanyavaad aaja
+Sorry aunt please | atta maaf karo kripya
+Good morning uncle | suprabhat chaacha
+I see moon tonight | ham aaj raat chaand dekhta
+You hear dog bark | tum kutta bhauukta suno
+We dance night | ham log raat naacho
+They sing morning | uu logan subah gao
+This is lamp | ii battii hai
+That is mat | uu chataai hai
+Here is bucket | hian baltii hai
+There is sheet | huan chaddar hai
+Give me spoon | hamke chimmach deo
+I eat soup | ham soup khaata
+You drink from glass | tum gilass se piye
+We like song | ham log gaanaa pasand hai
+They pray temple | uu logan mandir puja karta
+I am sad today | ham aaj dukhi hae
+You are angry now | tum ab gussa ho
+We are sleepy | ham log neend hae
+They are fine | uu logan theek hae
+My hand is clean | hamaar haath saaf hai
+Your foot is dirty | tumhaar pair ganda hai
+I wash body | ham badan dho
+You touch head | tum sir chhuuto
+Please give towel | kripya towel do
+I dry hair | ham baar sookhaata
+You brush hair | tum baar burus karo
+We cut nail | ham nakhun kaato
+They clean ear | uu logan kaan saaf karta
+This is skin | ii chamrra hai
+That is tooth | uu daant hai
+Here is beard | hian daarrii hai
+There is thumb | huan anguttha hai
+I feel happy | ham khush feel karta
+You feel tired | tum thaka feel karta
+We feel cold | ham log thanda feel karta
+They feel hot | uu logan garam feel karta
+Please give rest | kripya araam do
+I take rest | ham araam leta
+You play game | tum khel khelta
+We watch dance | ham log naach dekhta
+They listen music | uu logan sangeet suno
+Hello father good evening | namaste baap subh sandhya
+Thank you grandmother | dhanyavaad aaji
+Sorry friend help | dost maaf karo madad
+Good night brother | subh raat bhai
+I see you tomorrow | ham kal dekhta tumke
+You see me later | tum baad me dekho hamke
+We meet evening | ham log shaam milega
+They talk night | uu logan raat baat karta
+Please call father | kripya baap bolao
+I call mother | ham maai bolta
+You answer call | tum call uthaata
+We speak loud | ham log zor se baat karta
+They listen quiet | uu logan chup suno
+This is gift | ii baksis hai
+That is blessing | uu aasirwaad hai
+Here is problem | hian dikkat hai
+There is help | huan madad hai
+I solve difficulty | ham dikkat solve karta
+You give help | tum madad deta
+We trust family | ham log parivaar biswaas karta
+They fear darkness | uu logan andhera dar karta
+Please stay home | kripya ghar raho
+I go outside | ham bahaare jaata
+You come inside | tum bhittar aao
+We live village | ham log gaon rahta
+They live city | uu logan shahar rahta
+My day is good | hamaar din acha hai
+Your night is calm | tumhaar raat shaant hai
+We hope tomorrow | ham log kal umeed karta
+They wish peace | uu logan shaanti kaamna karta
+I eat rice slowly | ham chaawal dhiire khaata
+You drink water fast | tum paani tez piye
+We work hard | ham log mehnat kaam karta
+They rest evening | uu logan shaam araam karta
+Please give mango brother | bhai kripya aam do
+I take banana sister | bahin ham kela leta
+You see cow there | tum huan gaai dekho
+We feed goat | ham log bakrraa khilaata
+They like dog | uu logan kutta pasand hai
+This bird flies | ii chirriya udta
+That cat sleeps | uu bili sota
+Here is fish river | hian nadi bakewa hai
+There is chicken farm | huan farm murga hai
+I like sweet fruit | hamke mitha fal pasand hai
+You like sour lemon | tumke khatta nimbu pasand hai
+We eat fresh vegetable | ham log taaja sabji khaata
+They cook dry meat | uu logan sookha maans banaata
+Please cut onion | kripya pyaaj kaato
+I peel potato | ham aaluu chhilkaata
+You wash tomato | tum tamatar dho
+We fry bhindi | ham log bhindi bhujo
+They boil daal | uu logan daal boil karta
+This is sweet mango | ii mitha aam hai
+That is big pineapple | uu barraa ananas hai
+Here is small guava | hian chhota amrud hai
+There is red apple | huan laal aapul hai
+I buy fruit market | ham bazaar fal kharido
+You sell vegetable shop | tum dukaan sabji becho
+We like green cabbage | ham log hara band gobhi pasand hai
+They don’t like bitter gourd | uu logan karela nai pasand hai
+My mother makes roti | hamaar maai roti banaata
+Your father cooks rice | tumhaar baap chaawal banaata
+Our family eats night | ham logan ke parivaar raat khaata
+Their children drink milk | uu logan ke bachchaa doodh piye
+Who cooks good food? | acha khaana kon banaata?
+What you like eat? | tum ka khaana pasand hai?
+Where mother works? | maai kahaan kaam karta?
+When father sleeps? | baap kab sota?
+I like this place | hamke ii jagah pasand hai
+I don’t like that road | hamke uu rastaa nai pasand hai
+Please come home | kripya ghar aao
+I go market now | ham ab bazaar jaata
+Do you want tea? | tum chaa mangtaa ho?
+Can you give bread? | tum roti de sakta?
+I will eat later | ham baad me khaata jaaega
+You will drink soon | tum jaldi piyega
+We will see moon | ham log chaand dekhega
+They will sleep early | uu logan jaldi sota jaaega
+I worked field | ham garaund kaam kiya
+You ate fruit | tum fal khaaya
+We drank yogurt | ham log dahii piya
+They rested afternoon | uu logan dopahar araam kiya
+Please speak Hindi | kripya Hindi bolo
+I don’t understand English | ham English nai samjha
+Goodbye uncle | alvida chaacha
+See you evening | shaam milega
+I eat rice and sleep | ham chaawal khaata aur sota
+You drink tea and work | tum chaa piye aur kaam karta
+We go river and play | ham nadi jaata aur khelta
+They see bird and run | uu logan chirriya dekhta aur daurro
+My sister cooks and eats | hamaar bahin banaata aur khaata
+Your brother works and rests | tumhaar bhai kaam karta aur araam karta
+Hello mother I am fine | namaste maai ham theek hae
+How is father today? | baap aaj kaisan hai?
+Thank you for food | khaana ke dhanyavaad
+Please help grandmother | kripya aaji madad karo
+I see beautiful flower | ham sundar fuul dekhta
+You hear sweet song | tum mitha gaanaa suno
+We like this village | hamke ii gaon pasand hai
+They don’t like big city | uu logan barraa shahar nai pasand hai
+My brother eats guava | hamaar bhai amrud khaata
+Your sister likes pineapple | tumhaar bahin ananas pasand hai
+Our grandfather drinks tea | ham logan ke aaja chaa piye
+Their grandmother cooks potato | uu logan ke aaji aaluu banaata
+I don’t like onion | hamke pyaaj nai pasand hai
+You like tomato | tumke tamatar pasand hai
+We eat carrot morning | ham log subah gaajar khaata
+They drink coffee evening | uu logan shaam kafi piye
+Please give ginger | kripya adraki do
+I need garlic now | hamme ab lasun chaahi
+This eggplant is big | ii baigan barraa hai
+That cabbage is green | uu band gobhi hara hai
+Here is okra | hian bhindi hai
+There is lentils | huan daal hai
+My uncle sees goat | hamaar chaacha bakrraa dekhta
+Your aunt likes cow | tumhaar atta gaai pasand hai
+Who drinks milk? | doodh kon piye?
+What does sister eat? | bahin ka khaata?
+Where is chicken? | murga kahaan hai?
+When you work? | tum kab kaam karta?
+Why mother cooks? | maai kaahe banaata?
+How is village? | gaon kaise hai?
+I will go school | ham vidyalay jaaega
+You will come market | tum bazaar aaeega
+We will eat mango | ham log aam khaaega
+They will drink water | uu logan paani piyega
+I ate roti yesterday | ham kal roti khaaya
+You drank yogurt | tum dahii piya
+We saw dog | ham log kutta dekha
+They went home | uu logan ghar gaya
+Please close door | kripya duaar band karo
+Open window brother | bhai khirki kholo
+Sit here mother | maai hian baitho
+Stand there sister | bahin huan khara
+I am from Australia | ham Australia se hae
+You are from Fiji? | tum Fiji se ho?
+We like small house | hamke chhota ghar pasand hai
+They don’t like big road | uu logan barraa rastaa nai pasand hai
+Hello uncle how are you | namaste chaacha tum kaisan ho
+Thank you aunt | dhanyavaad atta
+Sorry grandfather please | aaja maaf karo kripya
+Good evening grandmother | subh sandhya aaji
+I see star sky | ham asmaan taara dekhta
+You hear bird sing | tum chirriya gaata suno
+We dance festival | ham log tyohaar naacho
+They sing song | uu logan gaanaa gao
+This is bottle | ii botal hai
+That is glass | uu gilass hai
+Here is spoon | hian chimmach hai
+There is knife | huan chhuri hai
+Give me bucket | hamke baltii deo
+I wash clothes | ham kapra dho
+You clean table | tum mez saaf karta
+We like bed | ham log bistar pasand hai
+They sleep mat | uu logan chataai sota
+I am tired now | ham ab thaka hae
+You are hungry today | tum aaj bhuuk ho
+We are thirsty | ham log pyaas hae
+They are happy | uu logan khush hae
+My eye sees good | hamaar aankhi acha dekhta
+Your ear hears well | tumhaar kaan acha sunta
+I touch nose | ham naak chhuuto
+You wash mouth | tum muh dho
+Please give soap | kripya sabun do
+I wash hand | ham haath dho
+You brush tooth | tum daant saaf karta
+We cut hair | ham baar kaato
+They clean face | uu logan muh saaf karta
+This is neck | ii gatai hai
+That is knee | uu ganthii hai
+Here is thumb | hian anguttha hai
+There is beard | huan daarrii hai
+I feel love | ham pyaar feel karta
+You feel anger | tum gussa feel karta
+We feel fear | ham log dar feel karta
+They feel sorrow | uu logan dukh feel karta
+Please give peace | kripya shaanti do
+I take rest now | ham ab araam leta
+You play outside | tum bahaare khelta
+We watch movie | ham log filam dekhta
+They listen bhajan | uu logan bhajan suno
+Hello brother good morning | namaste bhai suprabhat
+Thank you sister | dhanyavaad bahin
+Sorry mother help | maai maaf karo madad
+Good night father | subh raat baap
+I see you soon | ham jaldi dekhta tumke
+You see me tomorrow | tum kal dekho hamke
+We meet market | ham log bazaar milega
+They talk family | uu logan parivaar baat karta
+Please call brother | kripya bhai bolao
+I call sister | ham bahin bolta
+You answer me | tum hamke jawab deta
+We speak Hindi | ham log Fiji Hindi baat karta
+They listen carefully | uu logan dhyan se suno
+This is danger | ii khatra hai
+That is trust | uu biswaas hai
+Here is gift | hian baksis hai
+There is blessing | huan aasirwaad hai
+I help friend | ham dost madad karta
+You solve problem | tum dikkat solve karta
+We trust god | ham log bhagwaan biswaas karta
+They fear nothing | uu logan kuch nai dar karta
+Please stay near | kripya nikat raho
+I go far | ham durr jaata
+You come close | tum nikat aao
+We live happy | ham log khush rahta
+They live good | uu logan acha rahta
+My morning is good | hamaar subah acha hai
+Your evening is calm | tumhaar shaam shaant hai
+We hope good day | ham log acha din umeed karta
+They wish happy life | uu logan khush zindagi kaamna karta
+I eat bread fast | ham roti tez khaata
+You drink milk slow | tum doodh dhiire piye
+We work morning | ham log subah kaam karta
+They rest night | uu logan raat araam karta
+Please give apple sister | bahin kripya aapul do
+I take orange brother | bhai ham santra leta
+You see goat there | tum huan bakrraa dekho
+We feed chicken | ham log murga khilaata
+They like cat | uu logan bili pasand hai
+This dog runs | ii kutta daurro
+That bird flies high | uu chirriya uncha udta
+Here is cow grass | hian gaai ghaas khaata
+There is horse field | huan ghora garaund hai
+I like fresh mango | hamke taaja aam pasand hai
+You like ripe banana | tumke paka kela pasand hai
+We eat sweet guava | ham log mitha amrud khaata
+They cook hot vegetable | uu logan garam sabji banaata
+Please peel garlic | kripya lasun chhilkaao
+I cut ginger | ham adraki kaato
+You wash carrot | tum gaajar dho
+We fry potato | ham log aaluu bhujo
+They boil rice | uu logan chaawal boil karta
+This is sour lemon | ii khatta nimbu hai
+That is sweet honey | uu mitha madhu hai
+Here is salty namak | hian namak hai
+There is hot pepper | huan garam mirich hai
+I buy vegetable market | ham bazaar sabji kharido
+You sell fruit shop | tum dukaan fal becho
+We like red tomato | ham log laal tamatar pasand hai
+They don’t like green chili | uu logan hara mirich nai pasand hai
+My father buys fish | hamaar baap bakewa kharido
+Your mother cooks chicken | tumhaar maai murga banaata
+Our family eats together | ham logan ke parivaar saath khaata
+Their friend drinks tea | uu logan ke dost chaa piye
+Who likes sweet food? | mitha khaana kon pasand hai?
+What you cook today? | tum aaj ka banaata?
+Where father goes? | baap kahaan jaata?
+When sister sleeps? | bahin kab sota?
+I like this river | hamke ii nadi pasand hai
+I don’t like far mountain | hamke durr pahar nai pasand hai
+Please come inside | kripya bhittar aao
+I go outside now | ham ab bahaare jaata
+Do you want milk? | tum doodh mangtaa ho?
+Can you give water? | tum paani de sakta?
+I will sleep soon | ham jaldi sota jaaega
+You will eat later | tum baad me khaata
+We will drink tea | ham log chaa piyega
+They will go school | uu logan vidyalay jaaega
+I worked yesterday hard | ham kal mehnat kiya
+You ate good food | tum acha khaana khaaya
+We drank cold water | ham log thanda paani piya
+They rested morning | uu logan subah araam kiya
+Please speak slow | kripya dheere bolo
+I don’t understand quick | ham tez nai samjha
+Goodbye aunt | alvida atta
+See you tomorrow | kal milega
+I eat and drink water | ham khaata aur paani piye
+You work and rest | tum kaam karta aur araam karta
+We go market and buy | ham bazaar jaata aur kharido
+They see friend and talk | uu logan dost dekhta aur baat karta
+My mother cooks rice and roti | hamaar maai chaawal aur roti banaata
+Your father eats meat and bread | tumhaar baap maans aur roti khaata
+Hello how is family? | namaste parivaar kaisan hai?
+I am fine thank you | ham theek hae dhanyavaad
+Thank you for help | madad ke dhanyavaad
+Please help grandfather | kripya aaja madad karo
+I see big tree | ham barraa bo dekhta
+You hear loud bird | tum zor chirriya suno
+We like quiet village | hamke shaant gaon pasand hai
+They don’t like noisy city | uu logan shor shahar nai pasand hai
+My father likes mango | hamaar baap aam pasand hai
+Your mother drinks tea | tumhaar maai chaa piye
+Our brother eats bread | ham logan ke bhai roti khaata
+Their sister sees flower | uu logan ke bahin fuul dekhta
+I don’t like meat | hamke maans nai pasand hai
+You like fish | tumke bakewa pasand hai
+We eat rice morning | ham log subah chaawal khaata
+They drink milk night | uu logan raat doodh piye
+Please give water brother | bhai kripya paani do
+I need bread now | hamme ab roti chaahi
+This potato is good | ii aaluu acha hai
+That tomato is red | uu tamatar laal hai
+Here is onion | hian pyaaj hai
+There is carrot | huan gaajar hai
+My grandfather works hard | hamaar aaja mehnat karta
+Your grandmother cooks food | tumhaar aaji khaana banaata
+Who sees bird? | chirriya kon dekhta?
+What does father eat? | baap ka khaata?
+Where is dog? | kutta kahaan hai?
+When you sleep? | tum kab sota?
+Why sister runs? | bahin kaahe daurro?
+How is house? | ghar kaise hai?
+I will go home | ham ghar jaaega
+You will come school | tum vidyalay aaeega
+We will eat fruit | ham log fal khaaega
+They will drink tea | uu logan chaa piyega
+I ate bread yesterday | ham kal roti khaaya
+You drank water | tum paani piya
+We saw cat | ham log bili dekha
+They went village | uu logan gaon gaya
+Please close window | kripya khirki band karo
+Open door father | baap duaar kholo
+Sit outside sister | bahin bahaare baitho
+Stand inside brother | bhai bhittar khara
+I am from village | ham gaon se hae
+You are from city? | tum shahar se ho?
+We like this tree | hamke ii bo pasand hai
+They don’t like big mountain | uu logan barraa pahar nai pasand hai
+Hello mother how are you | namaste maai tum kaisan ho
+Thank you father | dhanyavaad baap
+Sorry sister please | bahin maaf karo kripya
+Good morning brother | suprabhat bhai
+I see moon now | ham ab chaand dekhta
+You hear dog | tum kutta suno
+We dance today | ham log aaj naacho
+They sing tomorrow | uu logan kal se baad gao
+This is chair | ii kursi hai
+That is table | uu mez hai
+Here is bed | hian bistar hai
+There is fan | huan pankha hai
+Give me pen | hamke kalam deo
+I write name | ham naam likhta
+You read book | tum kitab padhta
+We like temple | ham log mandir pasand hai
+They pray god | uu logan bhagwaan puja karta
+I am happy today | ham aaj khush hae
+You are sad now | tum ab dukhi ho
+We are tired | ham log thaka hae
+They are hungry | uu logan bhuuk hae
+My hand is big | hamaar haath barraa hai
+Your foot is small | tumhaar pair chhota hai
+I touch eye | ham aankhi chhuuto
+You wash ear | tum kaan dho
+Please give towel | kripya towel do
+I dry body | ham badan sookhaata
+You brush hair | tum baar burus karo
+We cut nail | ham nakhun kaato
+They clean nose | uu logan naak saaf karta
+This is head | ii sir hai
+That is heart | uu dil hai
+Here is knee | hian ganthii hai
+There is neck | huan gatai hai
+I feel cold | ham thanda feel karta
+You feel hot | tum garam feel karta
+We feel happy | ham log khush feel karta
+They feel angry | uu logan gussa feel karta
+Please give medicine | kripya dawai do
+I go doctor | ham doktaa jaata
+You see hospital | tum aspataal dekho
+We need help | ham log madad chaahi
+They want rest | uu logan araam mangtaa hae
+This is left road | ii baen rastaa hai
+That is right path | uu daen rasta hai
+Go straight mother | maai seedha chalo
+Turn near house | ghar nikat mudlo
+The market is close | bazaar nikat hai
+The river is far | nadi durr hai
+I walk slow | ham dheere chalta
+You run fast | tum tez daurro
+Please wait here | kripya hian agoro
+Come quick brother | bhai tez aao
+I eat banana now | ham ab kela khaata
+You drink coffee | tum kafi piye
+We like apple | ham log aapul pasand hai
+They eat guava | uu logan amrud khaata
+My father buys cow | hamaar baap gaai kharido
+Your mother sells goat | tumhaar maai bakrraa becho
+Our family sees river | ham logan ke parivaar nadi dekhta
+Their friend sees mountain | uu logan ke dost pahar dekhta
+Who is this man? | ii admi kon hai?
+What is your name? | tumhaar naam konchi hai?
+Where you go? | tum kahaan jaata?
+When mother cooks? | maai kab banaata?
+I like hot food | hamke garam khaana pasand hai
+I don’t like cold drink | hamke thanda piye nai pasand hai
+Please give rice | kripya chaawal do
+I want milk now | ham ab doodh chaahi
+Do you like bread? | tumke roti pasand hai?
+Can you help father? | tum baap madad kar sakta?
+I will sleep night | ham raat sota jaaega
+You will work day | tum din kaam karega
+We will drink evening | ham log shaam piyega
+They will go tomorrow | uu logan kal jaaega
+I worked morning | ham subah kaam kiya
+You ate afternoon | tum dopahar khaaya
+We drank night | ham log raat piya
+They slept day | uu logan din sota
+Please speak loud | kripya zor bolo
+I don’t understand soft | ham dheere nai samjha
+Goodbye brother | alvida bhai
+See you later | baad me milega
+I eat and sleep | ham khaata aur sota
+You drink and walk | tum piye aur chalta
+We work and rest | ham log kaam karta aur araam karta
+They see and run | uu logan dekhta aur daurro
+My mother cooks and sleeps | hamaar maai banaata aur sota
+Your father works and eats | tumhaar baap kaam karta aur khaata
+Hello sister I am fine | namaste bahin ham theek hae
+How is brother today? | bhai aaj kaisan hai?
+Thank you for water | paani ke dhanyavaad
+Please help mother | kripya maai madad karo
+I see big bird | ham barraa chirriya dekhta
+You hear loud dog | tum zor kutta suno
+We like this house | hamke ii ghar pasand hai
+They don’t like far village | uu logan durr gaon nai pasand hai
+I go market today | ham aaj bazaar jaata
+You come home tomorrow | tum kal ghar aao
+We eat together night | ham log raat saath khaata
+They play outside day | uu logan din bahaare khelta
+Please give fruit | kripya fal do
+I take vegetable | ham sabji leta
+You see fish river | tum nadi bakewa dekho
+We feed chicken | ham log murga khilaata
+They like goat | uu logan bakrraa pasand hai
+This cow is big | ii gaai barraa hai
+That horse runs fast | uu ghora tez daurro
+Here is monkey tree | hian bandar bo hai
+There is elephant forest | huan haathi jungle hai
+I like sweet mango | hamke mitha aam pasand hai
+You like sour orange | tumke khatta santra pasand hai
+We eat fresh bread | ham log taaja roti khaata
+They cook hot rice | uu logan garam chaawal banaata
+Please cut potato | kripya aaluu kaato
+I peel onion | ham pyaaj chhilkaata
+You wash tomato | tum tamatar dho
+We fry okra | ham log bhindi bhujo
+They boil lentils | uu logan daal boil karta
+This is big apple | ii barraa aapul hai
+That is small guava | uu chhota amrud hai
+Here is red pineapple | hian laal ananas hai
+There is yellow banana | huan peela kela hai
+I buy food market | ham bazaar khaana kharido
+You sell clothes shop | tum dukaan kapra becho
+We like green vegetable | ham log hara sabji pasand hai
+They don’t like bitter leaf | uu logan kadwa paat nai pasand hai
+My father works field | hamaar baap garaund kaam karta
+Your mother cooks good | tumhaar maai acha banaata
+Our family drinks milk | ham logan ke parivaar doodh piye
+Their children eat fruit | uu logan ke bachchaa fal khaata
+Who cooks rice? | chaawal kon banaata?
+What you drink? | tum ka piye?
+Where sister goes? | bahin kahaan jaata?
+When father works? | baap kab kaam karta?
+I like this road | hamke ii rastaa pasand hai
+I don’t like that river | hamke uu nadi nai pasand hai
+Please come village | kripya gaon aao
+I go city now | ham ab shahar jaata
+Do you want tea? | tum chaa mangtaa ho?
+Can you give salt? | tum namak de sakta?
+I will eat soon | ham jaldi khaata jaaega
+You will drink later | tum baad me piyega
+We will see temple | ham log mandir dekhega
+They will sleep home | uu logan ghar sota jaaega
+I worked yesterday | ham kal kaam kiya
+You ate good | tum acha khaaya
+We drank water | ham log paani piya
+They rested evening | uu logan shaam araam kiya
+Please speak Hindi | kripya Hindi bolo
+I don’t understand fast | ham tez nai samjha
+Goodbye sister | alvida bahin
+See you again | fir milega
+My uncle likes banana | hamaar chaacha kela pasand hai
+Your aunt drinks coffee | tumhaar atta kafi piye
+Our grandmother eats potato | ham logan ke aaji aaluu khaata
+Their grandfather sees mango | uu logan ke aaja aam dekhta
+I don’t like ginger | hamke adraki nai pasand hai
+You like garlic | tumke lasun pasand hai
+We eat cabbage evening | ham log shaam band gobhi khaata
+They drink yogurt morning | uu logan subah dahii piye
+Please give salt sister | bahin kripya namak do
+I need sugar now | hamme ab chiinii chaahi
+This tomato is sweet | ii tamatar mitha hai
+That carrot is orange | uu gaajar narangi hai
+Here is eggplant | hian baigan hai
+There is okra | huan bhindi hai
+My brother works market | hamaar bhai bazaar kaam karta
+Your sister cooks lentils | tumhaar bahin daal banaata
+Who sees horse? | ghora kon dekhta?
+What does uncle drink? | chaacha ka piye?
+Where is goat? | bakrraa kahaan hai?
+When you eat? | tum kab khaata?
+Why father angry? | baap kaahe gussa?
+How is this road? | ii rastaa kaise hai?
+I will go river | ham nadi jaaega
+You will come village | tum gaon aaeega
+We will eat pineapple | ham log ananas khaaega
+They will drink lemon | uu logan nimbu piyega
+I ate guava yesterday | ham kal amrud khaaya
+You drank tea | tum chaa piya
+We saw elephant | ham log haathi dekha
+They went forest | uu logan jungle gaya
+Please close door brother | bhai kripya duaar band karo
+Open window mother | maai khirki kholo
+Sit here grandfather | aaja hian baitho
+Stand there grandmother | aaji huan khara
+I am from Fiji | ham Fiji se hae
+You are from village? | tum gaon se ho?
+We like near shop | hamke nikat dukaan pasand hai
+They don’t like far school | uu logan durr vidyalay nai pasand hai
+Hello grandmother good evening | namaste aaji subh sandhya
+Thank you uncle | dhanyavaad chaacha
+Sorry aunt help | atta maaf karo madad
+Good morning grandfather | suprabhat aaja
+I see star tonight | ham aaj raat taara dekhta
+You hear bee | tum madhumakhi suno
+We dance evening | ham log shaam naacho
+They sing festival | uu logan tyohaar gao
+This is glass | ii gilass hai
+That is bottle | uu botal hai
+Here is spoon | hian chimmach hai
+There is knife | huan chhuri hai
+Give me chair | hamke kursi deo
+I sit bed | ham bistar baitho
+You clean table | tum mez saaf karta
+We like fan | ham log pankha pasand hai
+They sleep lamp light | uu logan battii roshni sota
+I am thirsty now | ham ab pyaas hae
+You are sleepy today | tum aaj neend ho
+We are sad | ham log dukhi hae
+They are angry | uu logan gussa hae
+My nose smells good | hamaar naak acha sunghata
+Your mouth eats food | tumhaar muh khaana khaata
+I touch hair | ham baar chhuuto
+You wash neck | tum gatai dho
+Please give soap | kripya sabun do
+I wash face | ham muh dho
+You brush beard | tum daarrii burus karo
+We cut thumb nail | ham anguttha nakhun kaato
+They clean knee | uu logan ganthii saaf karta
+This is brain | ii dimaag hai
+That is skin | uu chamrra hai
+Here is tooth | hian daant hai
+There is scar | huan daag hai
+I feel fear now | ham ab dar feel karta
+You feel sorrow | tum dukh feel karta
+We feel love | ham log pyaar feel karta
+They feel happiness | uu logan khushi feel karta
+Please give gift | kripya baksis do
+I give blessing | ham aasirwaad deta
+You play song | tum gaanaa bajao
+We watch dance | ham log naach dekhta
+They listen geet | uu logan geet suno
+Hello father how are you | namaste baap tum kaisan ho
+Thank you mother | dhanyavaad maai
+Sorry brother please | bhai maaf karo kripya
+Good night sister | subh raat bahin
+I see you tomorrow | ham kal dekhta tumke
+You see me evening | tum shaam dekho hamke
+We meet home | ham log ghar milega
+They talk friend | uu logan dost baat karta
+Please call uncle | kripya chaacha bolao
+I call aunt | ham atta bolta
+You answer question | tum sawal jawab deta
+We speak slow | ham log dheere baat karta
+They listen loud | uu logan zor suno
+This is problem big | ii dikkat barraa hai
+That is help good | uu madad acha hai
+Here is danger | hian khatra hai
+There is trust | huan biswaas hai
+I solve problem | ham dikkat solve karta
+You give help | tum madad deta
+We trust family | ham log parivaar biswaas karta
+They fear enemy | uu logan dusman dar karta
+Please stay safe | kripya safe raho
+I go careful | ham sambhal jaata
+You come slow | tum dheere aao
+We live village | ham log gaon rahta
+They live happy | uu logan khush rahta
+My day is busy | hamaar din busy hai
+Your night is quiet | tumhaar raat shaant hai
+We hope good | ham log acha umeed karta
+They wish peace | uu logan shaanti kaamna karta
+I eat rice fast | ham chaawal tez khaata
+You drink water slow | tum paani dheere piye
+We work day | ham log din kaam karta
+They rest night | uu logan raat araam karta
+Please give mango | kripya aam do
+I take banana | ham kela leta
+You see cow | tum gaai dekho
+We feed goat | ham log bakrraa khilaata
+They like dog | uu logan kutta pasand hai
+This cat sleeps | ii bili sota
+That bird sings | uu chirriya gaata
+Here is fish water | hian paani bakewa hai
+There is chicken house | huan ghar murga hai
+I like ripe fruit | hamke paka fal pasand hai
+You like fresh vegetable | tumke taaja sabji pasand hai
+We eat sweet honey | ham log mitha madhu khaata
+They cook spicy pepper | uu logan tikha mirich banaata
+Please peel carrot | kripya gaajar chhilkaao
+I cut tomato | ham tamatar kaato
+You wash onion | tum pyaaj dho
+We fry eggplant | ham log baigan bhujo
+They boil cabbage | uu logan band gobhi boil karta
+This is yellow banana | ii peela kela hai
+That is green guava | uu hara amrud hai
+Here is red apple | hian laal aapul hai
+There is orange pineapple | huan narangi ananas hai
+I buy vegetable shop | ham dukaan sabji kharido
+You sell fruit market | tum bazaar fal becho
+We like white rice | ham log safed chaawal pasand hai
+They don’t like black pepper | uu logan kaala mirich nai pasand hai
+My mother buys bread | hamaar maai roti kharido
+Your father cooks meat | tumhaar baap maans banaata
+Our family eats day | ham logan ke parivaar din khaata
+Their children drink yogurt | uu logan ke bachchaa dahii piye
+Who likes chicken? | murga kon pasand hai?
+What mother cooks? | maai ka banaata?
+Where brother goes? | bhai kahaan jaata?
+When sister drinks? | bahin kab piye?
+I like this market | hamke ii bazaar pasand hai
+I don’t like that hospital | hamke uu aspataal nai pasand hai
+Please come school | kripya vidyalay aao
+I go home now | ham ab ghar jaata
+Do you want coffee? | tum kafi mangtaa ho?
+Can you give sugar? | tum chiinii de sakta?
+I will sleep later | ham baad sota jaaega
+You will eat soon | tum jaldi khaata
+We will drink water | ham log paani piyega
+They will go river | uu logan nadi jaaega
+I worked hard today | ham aaj mehnat kiya
+You ate little | tum thoda khaaya
+We drank much | ham log bahut piya
+They rested well | uu logan acha araam kiya
+Please speak clear | kripya saaf bolo
+I don’t understand noise | ham shor nai samjha
+Goodbye grandfather | alvida aaja
+See you soon | jaldi milega
+My sister eats apple | hamaar bahin aapul khaata
+Your brother likes guava | tumhaar bhai amrud pasand hai
+Our uncle drinks yogurt | ham logan ke chaacha dahii piye
+Their aunt sees pineapple | uu logan ke atta ananas dekhta
+I don’t like pepper | hamke gol mirich nai pasand hai
+You like honey | tumke madhu pasand hai
+We eat lentils night | ham log raat daal khaata
+They drink milk morning | uu logan subah doodh piye
+Please give chili father | baap kripya mirich do
+I need namak now | hamme ab namak chaahi
+This onion is strong | ii pyaaj tez hai
+That garlic is small | uu lasun chhota hai
+Here is ginger | hian adraki hai
+There is tomato | huan tamatar hai
+My grandfather sees river | hamaar aaja nadi dekhta
+Your grandmother likes flower | tumhaar aaji fuul pasand hai
+Who eats mango? | aam kon khaata?
+What does brother drink? | bhai ka piye?
+Where is cat? | bili kahaan hai?
+When you go home? | tum kab ghar jaata?
+Why mother happy? | maai kaahe khush?
+How is this mango? | ii aam kaise hai?
+I will buy orange | ham santra kharido jaaega
+You will sell banana | tum kela becho jaaega
+We will see bird | ham log chirriya dekhega
+They will go market | uu logan bazaar jaaega
+I ate chicken yesterday | ham kal murga khaaya
+You drank coffee | tum kafi piya
+We saw goat | ham log bakrraa dekha
+They went school | uu logan vidyalay gaya
+Please close door sister | bahin kripya duaar band karo
+Open window uncle | chaacha khirki kholo
+Sit here grandmother | aaji hian baitho
+Stand there grandfather | aaja huan khara
+I am from Australia | ham Australia se hae
+You are from Fiji? | tum Fiji se ho?
+We like this village | hamke ii gaon pasand hai
+They don’t like noisy road | uu logan shor rastaa nai pasand hai
+Hello aunt good morning | namaste atta suprabhat
+Thank you grandmother | dhanyavaad aaji
+Sorry uncle help | chaacha maaf karo madad
+Good evening grandfather | subh sandhya aaja
+I see moon evening | ham shaam chaand dekhta
+You hear cat | tum bili suno
+We dance night | ham log raat naacho
+They sing morning | uu logan subah gao
+This is mat | ii chataai hai
+That is sheet | uu chaddar hai
+Here is bucket | hian baltii hai
+There is lamp | huan battii hai
+Give me table | hamke mez deo
+I sit chair | ham kursi baitho
+You read letter | tum chitthi padhta
+We like song | ham log gaanaa pasand hai
+They pray evening | uu logan shaam puja karta
+I am angry now | ham ab gussa hae
+You are sad today | tum aaj dukhi ho
+We are sleepy | ham log neend hae
+They are fine | uu logan theek hae
+My ear hears good | hamaar kaan acha sunta
+Your eye sees far | tumhaar aankhi durr dekhta
+I touch mouth | ham muh chhuuto
+You wash hand | tum haath dho
+Please give water face | kripya muh paani do
+I dry hair | ham baar sookhaata
+You clean beard | tum daarrii saaf karta
+We wash foot | ham pair dho
+They touch head | uu logan sir chhuuto
+This is skin | ii chamrra hai
+That is scar | uu daag hai
+Here is thumb | hian anguttha hai
+There is knee | huan ganthii hai
+I feel tired | ham thaka feel karta
+You feel thirsty | tum pyaas feel karta
+We feel hungry | ham log bhuuk feel karta
+They feel happy | uu logan khush feel karta
+Please give araam | kripya araam do
+I rest now | ham ab araam karta
+You play game | tum khel khelta
+We see movie | ham log filam dekhta
+They hear bhajan | uu logan bhajan suno
+Hello sister good night | namaste bahin subh raat
+Thank you brother | dhanyavaad bhai
+Sorry father please | baap maaf karo kripya
+Good morning mother | suprabhat maai
+I see you later | ham baad dekhta tumke
+You see me soon | tum jaldi dekho hamke
+We meet tomorrow | ham log kal milega
+They talk today | uu logan aaj baat karta
+Please call mother | kripya maai bolao
+I call father | ham baap bolta
+You answer fast | tum tez jawab deta
+We speak Fiji Hindi | ham log Fiji Hindi baat karta
+They listen dhyan | uu logan dhyan suno
+This is gift small | ii baksis chhota hai
+That is blessing big | uu aasirwaad barraa hai
+Here is problem | hian dikkat hai
+There is solution | huan upaay hai
+I help family | ham parivaar madad karta
+You solve difficulty | tum dikkat solve karta
+We trust friend | ham log dost biswaas karta
+They fear dark | uu logan andhera dar karta
+Please stay inside | kripya bhittar raho
+I go outside | ham bahaare jaata
+You come near | tum nikat aao
+We live good | ham log acha rahta
+They live village | uu logan gaon rahta
+My morning is fresh | hamaar subah taaja hai
+Your evening is nice | tumhaar shaam sundar hai
+We hope tomorrow better | ham log kal behtar umeed karta
+They wish good luck | uu logan good luck kaamna karta
+I eat slow bread | ham roti dheere khaata
+You drink fast tea | tum chaa tez piye
+We work hard day | ham log din mehnat karta
+They rest evening | uu logan shaam araam karta
+Please give pineapple | kripya ananas do
+I take coconut | ham nariyal leta
+You see bird sky | tum asmaan chirriya dekho
+We feed fish | ham log bakewa khilaata
+They like monkey | uu logan bandar pasand hai
+This elephant is big | ii haathi barraa hai
+That tiger runs | uu bagh daurro
+Here is lion forest | hian jungle sher hai
+There is snake grass | huan ghaas saanp hai
+I like cold water | hamke thanda paani pasand hai
+You like hot tea | tumke garam chaa pasand hai
+We eat new fruit | ham log nayaa fal khaata
+They cook old vegetable | uu logan purana sabji banaata
+Please boil potato | kripya aaluu boil karo
+I fry onion | ham pyaaj bhujo
+You cut garlic | tum lasun kaato
+We wash ginger | ham adraki dho
+They peel tomato | uu logan tamatar chhilkaata
+This is sweet orange | ii mitha santra hai
+That is sour lemon | uu khatta nimbu hai
+Here is fresh mango | hian taaja aam hai
+There is ripe banana | huan paka kela hai
+I buy clothes bazaar | ham bazaar kapra kharido
+You sell shoe shop | tum dukaan juta becho
+We like blue shirt | ham log bulu shirt pasand hai
+They don’t like black shoe | uu logan kaala juta nai pasand hai
+My father drives car | hamaar baap gaarii chalata
+Your mother rides bus | tumhaar maai bas chadhta
+Our family walks road | ham logan ke parivaar rastaa chalta
+Their friend runs fast | uu logan ke dost tez daurro
+Who drives car? | gaarii kon chalata?
+What you buy market? | tum bazaar ka kharido?
+Where mother sleeps? | maai kahaan sota?
+When brother works? | bhai kab kaam karta?
+I like near house | hamke nikat ghar pasand hai
+I don’t like far bazaar | hamke durr bazaar nai pasand hai
+Please come fast | kripya tez aao
+I go slow now | ham ab dheere jaata
+Do you want yogurt? | tum dahii mangtaa ho?
+Can you give honey? | tum madhu de sakta?
+I will eat evening | ham shaam khaata jaaega
+You will drink night | tum raat piyega
+We will see star | ham log taara dekhega
+They will sleep day | uu logan din sota jaaega
+I worked yesterday good | ham kal acha kiya
+You ate morning food | tum subah khaana khaaya
+We drank afternoon tea | ham log dopahar chaa piya
+They rested night well | uu logan raat acha araam kiya
+Please speak Hindi slow | kripya Hindi dheere bolo
+I don’t understand English | ham English nai samjha
+Goodbye grandmother | alvida aaji
+See you tomorrow | kal milega
+I eat rice and rest | ham chaawal khaata aur araam karta
+You drink milk and sleep | tum doodh piye aur sota
+We work and play | ham log kaam karta aur khelta
+They see river and walk | uu logan nadi dekhta aur chalta
+My brother cooks and eats | hamaar bhai banaata aur khaata
+Your sister works and rests | tumhaar bahin kaam karta aur araam karta
+Hello father thank you | namaste baap dhanyavaad
+How is mother today? | maai aaj kaisan hai?
+Thank you for bread | roti ke dhanyavaad
+Please help uncle | kripya chaacha madad karo
+I see small bird | ham chhota chirriya dekhta
+You hear quiet song | tum dheere gaanaa suno
+We like peaceful place | hamke shaant jagah pasand hai
+They don’t like loud festival | uu logan zor tyohaar nai pasand hai
+My brother sees bird | hamaar bhai chirriya dekhta
+Your sister likes flower | tumhaar bahin fuul pasand hai
+Our father drinks water | ham logan ke baap paani piye
+Their mother eats rice | uu logan ke maai chaawal khaata
+I don’t like fish | hamke bakewa nai pasand hai
+You like chicken | tumke murga pasand hai
+We eat bread evening | ham log shaam roti khaata
+They drink tea morning | uu logan subah chaa piye
+Please give milk sister | bahin kripya doodh do
+I need rice now | hamme ab chaawal chaahi
+This mango is sweet | ii aam mitha hai
+That banana is yellow | uu kela peela hai
+Here is guava | hian amrud hai
+There is pineapple | huan ananas hai
+My uncle works hard | hamaar chaacha mehnat karta
+Your aunt cooks good | tumhaar atta acha banaata
+Who drinks coffee? | kafi kon piye?
+What does sister see? | bahin ka dekhta?
+Where is dog? | kutta kahaan hai?
+When you come home? | tum kab ghar aata?
+Why brother tired? | bhai kaahe thaka?
+How is this house? | ii ghar kaise hai?
+I will go market | ham bazaar jaaega
+You will come river | tum nadi aaeega
+We will eat apple | ham log aapul khaaega
+They will drink yogurt | uu logan dahii piyega
+I ate potato yesterday | ham kal aaluu khaaya
+You drank milk | tum doodh piya
+We saw cow | ham log gaai dekha
+They went village | uu logan gaon gaya
+Please close window mother | maai kripya khirki band karo
+Open door brother | bhai duaar kholo
+Sit here father | baap hian baitho
+Stand there sister | bahin huan khara
+I am from village | ham gaon se hae
+You are from city? | tum shahar se ho?
+We like small shop | hamke chhota dukaan pasand hai
+They don’t like big hospital | uu logan barraa aspataal nai pasand hai
+Hello grandfather good morning | namaste aaja suprabhat
+Thank you grandmother | dhanyavaad aaji
+Sorry mother please | maai maaf karo kripya
+Good evening father | subh sandhya baap
+I see sun morning | ham subah suraj dekhta
+You hear bird | tum chirriya suno
+We dance festival | ham log mela naacho
+They sing bhajan | uu logan bhajan gao
+This is pen | ii kalam hai
+That is book | uu kitab hai
+Here is paper | hian kagaz hai
+There is light | huan baaro hai
+Give me fan | hamke pankha deo
+I sit table | ham mez baitho
+You write name | tum naam likhta
+We read Gita | ham log Gita padhta
+They like temple | uu logan mandir pasand hai
+I am fine today | ham aaj theek hae
+You are good now | tum ab acha ho
+We are happy | ham log khush hae
+They are tired | uu logan thaka hae
+My foot walks far | hamaar pair durr chalta
+Your hand holds good | tumhaar haath acha pakadta
+I touch nose | ham naak chhuuto
+You wash face | tum muh dho
+Please give towel | kripya towel do
+I dry hair | ham baar sookhaata
+You clean ear | tum kaan saaf karta
+We wash body | ham badan dho
+They touch hand | uu logan haath chhuuto
+This is heart | ii dil hai
+That is brain | uu dimaag hai
+Here is neck | hian gatai hai
+There is knee | huan ganthii hai
+I feel love | ham pyaar feel karta
+You feel fear | tum dar feel karta
+We feel anger | ham log gussa feel karta
+They feel peace | uu logan shaanti feel karta
+Please give blessing | kripya aasirwaad do
+I give gift | ham baksis deta
+You sing song | tum gaanaa gao
+We dance bhangra | ham log bhangrra naacho
+They watch movie | uu logan filam dekhta
+Hello mother thank you | namaste maai dhanyavaad
+Thank you father | dhanyavaad baap
+Sorry sister help | bahin maaf karo madad
+Good night brother | subh raat bhai
+I see you soon | ham jaldi dekhta tumke
+You see me tomorrow | tum kal dekho hamke
+We meet market | ham log bazaar milega
+They talk family | uu logan parivaar baat karta
+Please call sister | kripya bahin bolao
+I call brother | ham bhai bolta
+You answer call | tum call uthaata
+We speak loud | ham log zor baat karta
+They listen quiet | uu logan chup suno
+This is help good | ii madad acha hai
+That is problem small | uu dikkat chhota hai
+Here is trust | hian biswaas hai
+There is danger | huan khatra hai
+I help friend | ham dost madad karta
+You solve problem | tum dikkat solve karta
+We trust god | ham log bhagwaan biswaas karta
+They fear nothing | uu logan kuch nai dar karta
+Please stay home | kripya ghar raho
+I go outside | ham bahaare jaata
+You come inside | tum bhittar aao
+We live happy | ham log khush rahta
+They live village | uu logan gaon rahta
+My day is good | hamaar din acha hai
+Your night is calm | tumhaar raat shaant hai
+We hope best | ham log best umeed karta
+They wish good | uu logan good kaamna karta
+I eat fruit slow | ham fal dheere khaata
+You drink tea fast | tum chaa tez piye
+We work morning | ham log subah kaam karta
+They rest evening | uu logan shaam araam karta
+Please give banana | kripya kela do
+I take mango | ham aam leta
+You see goat | tum bakrraa dekho
+We feed cow | ham log gaai khilaata
+They like cat | uu logan bili pasand hai
+This dog barks | ii kutta bhauukta
+That bird flies | uu chirriya udta
+Here is monkey tree | hian bandar bo hai
+There is horse field | huan ghora garaund hai
+I like fresh fruit | hamke taaja fal pasand hai
+You like ripe vegetable | tumke paka sabji pasand hai
+We eat sweet honey | ham log mitha madhu khaata
+They cook hot chili | uu logan garam mirich banaata
+Please cut carrot | kripya gaajar kaato
+I peel potato | ham aaluu chhilkaata
+You wash tomato | tum tamatar dho
+We fry bhindi | ham log bhindi bhujo
+They boil daal | uu logan daal boil karta
+This is red tomato | ii laal tamatar hai
+That is green cabbage | uu hara band gobhi hai
+Here is yellow lemon | hian peela nimbu hai
+There is blue sky | huan bulu asmaan hai
+I buy food shop | ham dukaan khaana kharido
+You sell clothes bazaar | tum bazaar kapra becho
+We like white bread | ham log safed roti pasand hai
+They don’t like black coffee | uu logan kaala kafi nai pasand hai
+My father works hard | hamaar baap mehnat karta
+Your mother cooks rice | tumhaar maai chaawal banaata
+Our family eats together | ham logan ke parivaar saath khaata
+Their children play outside | uu logan ke bachchaa bahaare khelta
+Who likes mango? | aam kon pasand hai?
+What you eat today? | tum aaj ka khaata?
+Where father goes? | baap kahaan jaata?
+When mother sleeps? | maai kab sota?
+I like this place | hamke ii jagah pasand hai
+I don’t like that road | hamke uu rastaa nai pasand hai
+Please come home | kripya ghar aao
+I go market now | ham ab bazaar jaata
+Do you want water? | tum paani mangtaa ho?
+Can you give bread? | tum roti de sakta?
+I will sleep soon | ham jaldi sota jaaega
+You will work later | tum baad kaam karega
+We will drink tea | ham log chaa piyega
+They will go school | uu logan vidyalay jaaega
+I worked yesterday | ham kal kaam kiya
+You ate good food | tum acha khaana khaaya
+We drank cold milk | ham log thanda doodh piya
+They rested well | uu logan acha araam kiya
+Please speak slow | kripya dheere bolo
+I don’t understand fast | ham tez nai samjha
+Goodbye uncle | alvida chaacha
+See you again | fir milega
+I eat rice and drink | ham chaawal khaata aur piye
+You work and eat | tum kaam karta aur khaata
+We go and come | ham jaata aur aata
+They see and hear | uu logan dekhta aur suno
+My mother cooks and rests | hamaar maai banaata aur araam karta
+Your father works and sleeps | tumhaar baap kaam karta aur sota
+Hello how are you today | namaste tum aaj kaisan ho
+I am fine thank you | ham theek hae dhanyavaad
+Thank you very much | bahut dhanyavaad
+Please help me now | kripya ab hamre madad karo
+I see beautiful flower | ham sundar fuul dekhta
+You hear sweet song | tum mitha gaanaa suno
+We like this village | hamke ii gaon pasand hai
+They don’t like big city | uu logan barraa shahar nai pasand hai
+My father eats mango | hamaar baap aam khaata
+Your mother likes tea | tumhaar maai chaa pasand hai
+Our brother drinks water | ham logan ke bhai paani piye
+Their sister sees book | uu logan ke bahin kitab dekhta
+I don’t like onion | hamke pyaaj nai pasand hai
+You like potato | tumke aaluu pasand hai
+We eat rice now | ham log ab chaawal khaata
+They drink milk today | uu logan aaj doodh piye
+Please give bread father | baap kripya roti do
+I need water now | hamme ab paani chaahi
+This mango is big | ii aam barraa hai
+That banana is sweet | uu kela mitha hai
+Here is apple | hian aapul hai
+There is guava | huan amrud hai
+My grandfather works home | hamaar aaja ghar kaam karta
+Your grandmother cooks rice | tumhaar aaji chaawal banaata
+Who sees dog? | kutta kon dekhta?
+What does mother drink? | maai ka piye?
+Where is bird? | chirriya kahaan hai?
+When you eat rice? | tum kab chaawal khaata?
+Why sister happy? | bahin kaahe khush?
+How is this bread? | ii roti kaise hai?
+I will go home | ham ghar jaaega
+You will come village | tum gaon aaeega
+We will eat fruit | ham log fal khaaega
+They will drink tea | uu logan chaa piyega
+I ate bread yesterday | ham kal roti khaaya
+You drank coffee | tum kafi piya
+We saw cat | ham log bili dekha
+They went market | uu logan bazaar gaya
+Please close door | kripya duaar band karo
+Open window now | ab khirki kholo
+Sit here mother | maai hian baitho
+Stand there father | baap huan khara
+I am from Fiji | ham Fiji se hae
+You are from village? | tum gaon se ho?
+We like small house | hamke chhota ghar pasand hai
+They don’t like far road | uu logan durr rastaa nai pasand hai
+Hello brother how are you | namaste bhai tum kaisan ho
+Thank you sister | dhanyavaad bahin
+Sorry father please | baap maaf karo kripya
+Good morning mother | suprabhat maai
+I see moon night | ham raat chaand dekhta
+You hear bird sing | tum chirriya gaata suno
+We dance today | ham log aaj naacho
+They sing song | uu logan gaanaa gao
+This is chair | ii kursi hai
+That is table | uu mez hai
+Here is bed | hian bistar hai
+There is fan | huan pankha hai
+Give me pen | hamke kalam deo
+I write letter | ham chitthi likhta
+You read book | tum kitab padhta
+We like temple | ham log mandir pasand hai
+They pray god | uu logan bhagwaan puja karta
+I am hungry now | ham ab bhuuk hae
+You are thirsty today | tum aaj pyaas ho
+We are happy here | ham log hian khush hae
+They are sad there | uu logan huan dukhi hae
+My hand is clean | hamaar haath saaf hai
+Your foot is good | tumhaar pair acha hai
+I wash face | ham muh dho
+You touch head | tum sir chhuuto
+Please give soap | kripya sabun do
+I dry body | ham badan sookhaata
+You brush tooth | tum daant burus karo
+We cut hair | ham baar kaato
+They clean hand | uu logan haath saaf karta
+This is eye | ii aankhi hai
+That is ear | uu kaan hai
+Here is nose | hian naak hai
+There is mouth | huan muh hai
+I feel cold | ham thanda feel karta
+You feel hot | tum garam feel karta
+We feel love | ham log pyaar feel karta
+They feel fear | uu logan dar feel karta
+Please give rest | kripya araam do
+I take rest | ham araam leta
+You play game | tum khel khelta
+We watch movie | ham log filam dekhta
+They listen song | uu logan gaanaa suno
+Hello sister good evening | namaste bahin subh sandhya
+Thank you brother | dhanyavaad bhai
+Sorry mother help | maai maaf karo madad
+Good night father | subh raat baap
+I see you soon | ham jaldi dekhta tumke
+You see me tomorrow | tum kal dekho hamke
+We meet home | ham log ghar milega
+They talk friend | uu logan dost baat karta
+Please call mother | kripya maai bolao
+I call father | ham baap bolta
+You answer me | tum hamke jawab deta
+We speak slow | ham log dheere baat karta
+They listen carefully | uu logan dhyan se suno
+This is problem | ii dikkat hai
+That is help | uu madad hai
+Here is gift | hian baksis hai
+There is blessing | huan aasirwaad hai
+I help brother | ham bhai madad karta
+You solve problem | tum dikkat solve karta
+We trust family | ham log parivaar biswaas karta
+They fear dark | uu logan andhera dar karta
+Please stay inside | kripya bhittar raho
+I go outside | ham bahaare jaata
+You come inside | tum bhittar aao
+We live village | ham log gaon rahta
+They live happy | uu logan khush rahta
+My day is good | hamaar din acha hai
+Your night is calm | tumhaar raat shaant hai
+We hope good | ham log acha umeed karta
+They wish peace | uu logan shaanti kaamna karta
+I eat rice slow | ham chaawal dheere khaata
+You drink milk fast | tum doodh tez piye
+We work day | ham log din kaam karta
+They rest night | uu logan raat araam karta
+Please give mango | kripya aam do
+I take banana | ham kela leta
+You see cow | tum gaai dekho
+We feed goat | ham log bakrraa khilaata
+They like dog | uu logan kutta pasand hai
+This cat runs | ii bili daurro
+That bird flies | uu chirriya udta
+Here is fish river | hian nadi bakewa hai
+There is chicken farm | huan murga khet hai
+I like sweet fruit | hamke mitha fal pasand hai
+You like sour lemon | tumke khatta nimbu pasand hai
+We eat fresh bread | ham log taaja roti khaata
+They cook hot rice | uu logan garam chaawal banaata
+Please cut onion | kripya pyaaj kaato
+I peel garlic | ham lasun chhilkaata
+You wash potato | tum aaluu dho
+We fry tomato | ham log tamatar bhujo
+They boil daal | uu logan daal boil karta
+This is red apple | ii laal aapul hai
+That is green guava | uu hara amrud hai
+Here is yellow banana | hian peela kela hai
+There is orange mango | huan narangi aam hai
+I buy vegetable market | ham bazaar sabji kharido
+You sell fruit shop | tum dukaan fal becho
+We like green vegetable | ham log hara sabji pasand hai
+They don’t like bitter gourd | uu logan karela nai pasand hai
+My father buys fish | hamaar baap bakewa kharido
+Your mother cooks chicken | tumhaar maai murga banaata
+Our family eats together | ham logan ke parivaar saath khaata
+Their friend drinks tea | uu logan ke dost chaa piye
+Who likes sweet mango? | mitha aam kon pasand hai?
+What you eat today? | tum aaj ka khaata?
+Where mother goes? | maai kahaan jaata?
+When brother sleeps? | bhai kab sota?
+I like this road | hamke ii rastaa pasand hai
+I don’t like that river | hamke uu nadi nai pasand hai
+Please come home | kripya ghar aao
+I go market now | ham ab bazaar jaata
+Do you want milk? | tum doodh mangtaa ho?
+Can you give water? | tum paani de sakta?
+I will sleep soon | ham jaldi sota jaaega
+You will eat later | tum baad me khaata
+We will drink tea | ham log chaa piyega
+They will go school | uu logan vidyalay jaaega
+I worked yesterday | ham kal kaam kiya
+You ate good food | tum acha khaana khaaya
+We drank cold water | ham log thanda paani piya
+They rested morning | uu logan subah araam kiya
+Please speak Hindi | kripya Hindi bolo
+I don’t understand fast | ham tez nai samjha
+Goodbye sister | alvida bahin
+See you again | fir milega
+I eat rice and sleep | ham chaawal khaata aur sota
+You drink tea and work | tum chaa piye aur kaam karta
+We go river and play | ham nadi jaata aur khelta
+They see bird and run | uu logan chirriya dekhta aur daurro
+My mother cooks and eats | hamaar maai banaata aur khaata
+Your father works and rests | tumhaar baap kaam karta aur araam karta
+Hello how is family today | namaste parivaar aaj kaisan hai
+I am fine thank you | ham theek hae dhanyavaad
+Thank you for help | madad ke dhanyavaad
+Please help brother | kripya bhai madad karo
+I see big flower | ham barraa fuul dekhta
+You hear loud song | tum zor gaanaa suno
+We like quiet place | hamke shaant jagah pasand hai
+They don’t like noisy market | uu logan shor bazaar nai pasand hai
