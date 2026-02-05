@@ -13,7 +13,7 @@ A speech translation system that enables conversation between English and Fiji H
 This project demonstrates the strategic use of pre-trained models (Whisper, Edge-TTS) alongside custom-built models (Transformer), showcasing when to build vs. when to leverage existing solutions—a critical skill for AI engineers.
 
 ---
-**Note on Translation Accuracy:** 
+## Note on Translation Accuracy:
 The translator achieves 73% exact match accuracy due to training on a limited dataset of 2,399 Fiji Hindi pairs. While single words translate with 90%+ accuracy, complex sentences face generalization challenges. Data augmentation was employed to expand from the initial 1,000 pairs to 2,399, but further improvement to 85%+ accuracy would require scaling to 10,000+ training examples. This limitation demonstrates the fundamental relationship between data quantity and model performance—the Transformer architecture is sound, but constrained by available training data for this low-resource language.
 
 ---
@@ -430,7 +430,7 @@ This project demonstrates:
 **Rxkz (Foxsin)**
 - GitHub: [@Rxkz](https://github.com/Rxkz)
 - AI/ML Engineering Student @ Yoobee Colleges, Auckland, NZ
-- Target: AI Engineer @ Rocket Lab (November 2026)
+
 
 **Portfolio:** This project is part of a 50-project Deep Learning practice series demonstrating hands-on implementation of modern AI techniques.
 
