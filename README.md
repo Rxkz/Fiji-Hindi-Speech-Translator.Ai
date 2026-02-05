@@ -1,4 +1,4 @@
-#Fiji Hindi Speech Translator
+## Fiji Hindi Speech Translator
 
 Sequential speech translation between English and Fiji Hindi using a custom-trained Transformer model.
 
@@ -6,14 +6,17 @@ Sequential speech translation between English and Fiji Hindi using a custom-trai
 
 ---
 
-##Project Overview
+## Project Overview
 
 A speech translation system that enables conversation between English and Fiji Hindi speakers. The system combines state-of-the-art speech recognition (Whisper) with a custom-trained Transformer model for translation, and text-to-speech synthesis for natural audio output.
 
 This project demonstrates the strategic use of pre-trained models (Whisper, Edge-TTS) alongside custom-built models (Transformer), showcasing when to build vs. when to leverage existing solutions—a critical skill for AI engineers.
 
 ---
-**Note on Translation Accuracy:** The translator achieves 73% exact match accuracy due to training on a limited dataset of 2,399 Fiji Hindi pairs. While single words translate with 90%+ accuracy, complex sentences face generalization challenges. Data augmentation was employed to expand from the initial 1,000 pairs to 2,399, but further improvement to 85%+ accuracy would require scaling to 10,000+ training examples. This limitation demonstrates the fundamental relationship between data quantity and model performance—the Transformer architecture is sound, but constrained by available training data for this low-resource language.
+**Note on Translation Accuracy:** 
+The translator achieves 73% exact match accuracy due to training on a limited dataset of 2,399 Fiji Hindi pairs. While single words translate with 90%+ accuracy, complex sentences face generalization challenges. Data augmentation was employed to expand from the initial 1,000 pairs to 2,399, but further improvement to 85%+ accuracy would require scaling to 10,000+ training examples. This limitation demonstrates the fundamental relationship between data quantity and model performance—the Transformer architecture is sound, but constrained by available training data for this low-resource language.
+
+---
 
 ##  Architecture
 ```
